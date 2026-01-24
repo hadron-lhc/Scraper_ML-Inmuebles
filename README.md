@@ -43,7 +43,7 @@ El scraper genera un archivo CSV con la siguiente estructura:
 El proyecto genera 4 gráficos de análisis:
 
 1. **Precio promedio por zona** (Gráfico de barras)
-   ![Distribución de precios](./plots/precio_por_zona.png.png)
+   ![Distribución de precios](./plots/precio_por_zona.png)
 
 2. **Distribución de precios** (Histograma)
    ![Distribución de precios](./plots/distribucion_precios.png)
@@ -52,7 +52,7 @@ El proyecto genera 4 gráficos de análisis:
    ![Precio vs Área](./plots/precio_vs_area.png)
 
 4. **Distribución de precios por zona** (Box plot)
-   ![Distribución de precios](./plots/boxplot_zonas.png.png)
+   ![Distribución de precios](./plots/boxplot_zonas.png)
 
 ---
 
