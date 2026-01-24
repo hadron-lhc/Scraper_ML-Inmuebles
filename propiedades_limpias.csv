@@ -1,0 +1,1792 @@
+zone,city,price,rooms,bathrooms,area
+GBA Norte,pilar,80000.0,9,6,400
+GBA Norte,pilar,180000.0,6,2,116
+GBA Norte,pilar,120000.0,4,2,175
+GBA Norte,pilar,279000.0,5,4,193
+GBA Norte,pilar,395000.0,1,5,235
+GBA Norte,pilar,153000.0,3,3,107
+GBA Norte,pilar,245000.0,4,3,154
+GBA Norte,pilar,490000.0,4,2,178
+GBA Norte,pilar,130000.0,4,2,106
+GBA Norte,pilar,238500.0,5,3,142
+GBA Norte,pilar,187000.0,4,2,130
+GBA Norte,pilar,300000.0,4,2,150
+GBA Norte,pilar,290000.0,5,4,226
+GBA Norte,pilar,229000.0,5,3,190
+GBA Norte,pilar,175000.0,4,2,130
+GBA Norte,pilar,189000.0,5,3,145
+GBA Norte,pilar,149000.0,6,3,120
+GBA Norte,pilar,170000.0,5,2,151
+GBA Norte,pilar,162000.0,4,2,110
+GBA Norte,pilar,125000.0,3,2,80
+GBA Norte,pilar,232000.0,4,3,130
+GBA Norte,pilar,475000.0,7,2,255
+GBA Norte,pilar,155000.0,4,2,125
+GBA Norte,pilar,345000.0,5,2,230
+GBA Norte,pilar,199000.0,4,3,147
+GBA Norte,pilar,185000.0,4,2,168
+GBA Norte,pilar,105000.0,5,2,190
+GBA Norte,pilar,189000.0,4,3,148
+GBA Norte,pilar,680000.0,4,3,260
+GBA Norte,pilar,430000.0,4,2,205
+GBA Norte,pilar,153000.0,3,2,117
+GBA Norte,pilar,285000.0,3,3,170
+GBA Norte,pilar,167000.0,3,2,120
+GBA Norte,pilar,250000.0,1,2,80
+GBA Norte,pilar,200000.0,4,2,124
+GBA Norte,pilar,168000.0,4,2,190
+GBA Norte,pilar,185000.0,4,1,120
+GBA Norte,pilar,735000.0,6,4,287
+GBA Norte,pilar,620000.0,6,3,237
+GBA Norte,pilar,450000.0,3,6,331
+GBA Norte,pilar,395000.0,7,3,318
+GBA Norte,pilar,280000.0,4,3,170
+GBA Norte,pilar,260000.0,5,3,180
+GBA Norte,pilar,210000.0,5,3,180
+GBA Norte,escobar,86000.0,1,6,87
+GBA Norte,escobar,319000.0,6,4,252
+GBA Norte,escobar,75000.0,5,5,181
+GBA Norte,escobar,80000.0,4,5,320
+GBA Norte,escobar,245000.0,3,2,175
+GBA Norte,escobar,190000.0,6,2,165
+GBA Norte,escobar,290000.0,5,4,208
+GBA Norte,escobar,79000.0,2,4,710
+GBA Norte,escobar,299000.0,5,3,184
+GBA Norte,escobar,610000.0,7,5,291
+GBA Norte,escobar,350000.0,6,4,300
+GBA Norte,escobar,295000.0,5,3,167
+GBA Norte,escobar,64800.0,3,1,60
+GBA Norte,escobar,239000.0,3,3,162
+GBA Norte,escobar,480000.0,10,6,249
+GBA Norte,escobar,67500.0,1,1,60
+GBA Norte,escobar,75000.0,3,1,52
+GBA Norte,escobar,58000.0,2,1,80
+GBA Norte,escobar,135000.0,4,3,110
+GBA Norte,escobar,123000.0,3,1,120
+GBA Norte,escobar,170000.0,4,2,190
+GBA Norte,escobar,379000.0,5,4,196
+GBA Norte,escobar,275000.0,5,2,200
+GBA Norte,escobar,128000.0,5,2,73
+GBA Norte,escobar,298000.0,4,4,175
+GBA Norte,escobar,135000.0,5,2,120
+GBA Norte,escobar,540000.0,6,3,227
+GBA Norte,escobar,295000.0,5,3,228
+GBA Norte,escobar,210000.0,6,3,150
+GBA Norte,escobar,359000.0,5,3,115
+GBA Norte,escobar,585000.0,5,2,245
+GBA Norte,escobar,129000.0,4,2,84
+GBA Norte,escobar,300000.0,5,4,160
+GBA Norte,escobar,165000.0,3,1,154
+GBA Norte,escobar,327000.0,5,3,260
+GBA Norte,escobar,249000.0,4,3,195
+GBA Norte,escobar,390000.0,5,3,162
+GBA Norte,escobar,650000.0,4,3,279
+GBA Norte,escobar,250000.0,3,2,710
+GBA Norte,escobar,295000.0,3,2,155
+GBA Norte,escobar,245000.0,3,2,165
+GBA Norte,escobar,275000.0,2,2,177
+GBA Norte,escobar,429000.0,4,4,204
+GBA Norte,escobar,290000.0,6,4,240
+GBA Norte,escobar,379000.0,4,3,290
+GBA Norte,escobar,150000.0,4,3,165
+GBA Norte,escobar,482000.0,5,4,245
+GBA Norte,tigre,129000.0,4,1,110
+GBA Norte,tigre,520000.0,5,3,230
+GBA Norte,tigre,430000.0,3,3,164
+GBA Norte,tigre,620000.0,10,5,350
+GBA Norte,tigre,365000.0,5,3,175
+GBA Norte,tigre,560000.0,7,6,300
+GBA Norte,tigre,115000.0,4,2,95
+GBA Norte,tigre,635000.0,9,5,312
+GBA Norte,tigre,530000.0,7,5,394
+GBA Norte,tigre,115000.0,1,1,70
+GBA Norte,tigre,48000.0,2,1,55
+GBA Norte,tigre,53000.0,3,1,71
+GBA Norte,tigre,99000.0,3,1,75
+GBA Norte,tigre,250000.0,4,3,188
+GBA Norte,tigre,299000.0,6,4,280
+GBA Norte,tigre,88000.0,3,3,133
+GBA Norte,tigre,990000.0,6,4,350
+GBA Norte,tigre,459000.0,6,3,192
+GBA Norte,tigre,290000.0,5,5,163
+GBA Norte,tigre,398000.0,6,4,280
+GBA Norte,tigre,750000.0,6,4,242
+GBA Norte,tigre,450000.0,5,4,420
+GBA Norte,tigre,135000.0,6,2,200
+GBA Norte,tigre,950000.0,6,3,330
+GBA Norte,tigre,349000.0,4,4,173
+GBA Norte,tigre,198000.0,4,1,87
+GBA Norte,tigre,490000.0,7,5,234
+GBA Norte,tigre,790000.0,7,4,307
+GBA Norte,tigre,445000.0,5,3,200
+GBA Norte,tigre,580000.0,6,2,213
+GBA Norte,tigre,99990.0,5,2,159
+GBA Norte,tigre,550000.0,5,4,340
+GBA Norte,tigre,545000.0,5,3,210
+GBA Norte,tigre,175000.0,4,2,144
+GBA Norte,tigre,310000.0,6,2,248
+GBA Norte,tigre,695000.0,5,3,230
+GBA Norte,tigre,380000.0,7,3,213
+GBA Norte,tigre,100000.0,4,2,130
+GBA Norte,san-isidro,100000.0,4,2,220
+GBA Norte,san-isidro,700000.0,7,5,361
+GBA Norte,san-isidro,170000.0,8,2,131
+GBA Norte,san-isidro,280000.0,3,1,154
+GBA Norte,san-isidro,470000.0,5,4,160
+GBA Norte,san-isidro,330000.0,4,3,290
+GBA Norte,san-isidro,360000.0,6,3,150
+GBA Norte,san-isidro,155000.0,3,1,87
+GBA Norte,san-isidro,275000.0,4,1,140
+GBA Norte,san-isidro,189000.0,3,2,116
+GBA Norte,san-isidro,180000.0,4,2,140
+GBA Norte,san-isidro,200000.0,4,2,130
+GBA Norte,san-isidro,410000.0,6,4,195
+GBA Norte,san-isidro,328000.0,5,3,144
+GBA Norte,san-isidro,300000.0,5,2,307
+GBA Norte,san-isidro,350000.0,5,3,210
+GBA Norte,san-isidro,980000.0,5,3,286
+GBA Norte,san-isidro,950000.0,4,6,560
+GBA Norte,san-isidro,410000.0,4,3,238
+GBA Norte,san-isidro,795000.0,7,4,260
+GBA Norte,san-isidro,140000.0,7,3,210
+GBA Norte,san-isidro,355000.0,4,4,218
+GBA Norte,san-isidro,275000.0,6,2,269
+GBA Norte,san-isidro,830000.0,6,4,514
+GBA Norte,san-isidro,395000.0,5,3,268
+GBA Norte,san-isidro,220000.0,5,3,258
+GBA Norte,san-isidro,390000.0,4,1,162
+GBA Norte,san-isidro,340000.0,5,2,110
+GBA Norte,san-isidro,890000.0,6,5,416
+GBA Norte,san-isidro,760000.0,6,4,600
+GBA Norte,san-isidro,149900.0,5,2,118
+GBA Norte,san-isidro,765000.0,6,3,240
+GBA Norte,san-isidro,235000.0,3,2,97
+GBA Norte,san-isidro,330000.0,7,4,242
+GBA Norte,san-isidro,295000.0,4,1,135
+GBA Norte,san-isidro,360000.0,4,3,222
+GBA Norte,san-isidro,170000.0,4,2,220
+GBA Norte,san-isidro,550000.0,5,2,207
+GBA Norte,san-isidro,380000.0,5,3,157
+GBA Norte,san-isidro,450000.0,8,5,277
+GBA Norte,san-isidro,350000.0,6,2,209
+GBA Norte,san-isidro,310000.0,3,1,113
+GBA Norte,san-isidro,380000.0,6,3,240
+GBA Norte,san-miguel,115000.0,3,2,70
+GBA Norte,san-miguel,149900.0,4,2,109
+GBA Norte,san-miguel,135000.0,5,2,100
+GBA Norte,san-miguel,90000.0,5,1,218
+GBA Norte,san-miguel,295000.0,5,3,326
+GBA Norte,san-miguel,340000.0,4,3,300
+GBA Norte,san-miguel,85000.0,3,1,80
+GBA Norte,san-miguel,159000.0,4,1,125
+GBA Norte,san-miguel,165000.0,5,3,160
+GBA Norte,san-miguel,399000.0,7,4,264
+GBA Norte,san-miguel,310000.0,4,2,181
+GBA Norte,san-miguel,259000.0,4,2,170
+GBA Norte,san-miguel,299000.0,6,3,230
+GBA Norte,san-miguel,165000.0,5,3,160
+GBA Norte,san-miguel,215000.0,7,3,209
+GBA Norte,san-miguel,175000.0,3,3,206
+GBA Norte,san-miguel,730000.0,8,4,334
+GBA Norte,san-miguel,326000.0,3,2,183
+GBA Norte,san-miguel,138000.0,4,1,105
+GBA Norte,san-miguel,280000.0,6,4,220
+GBA Norte,san-miguel,396000.0,7,3,324
+GBA Norte,san-miguel,570000.0,8,4,515
+GBA Norte,san-miguel,335000.0,4,3,200
+GBA Norte,san-miguel,145000.0,4,2,160
+GBA Norte,san-miguel,485000.0,4,3,300
+GBA Norte,san-miguel,130000.0,6,2,120
+GBA Norte,san-miguel,282000.0,3,1,101
+GBA Norte,san-miguel,330000.0,6,3,250
+GBA Norte,san-miguel,260000.0,4,2,253
+GBA Norte,san-miguel,56000.0,3,1,70
+GBA Norte,san-miguel,135000.0,4,1,135
+GBA Norte,san-miguel,73000.0,4,1,120
+GBA Norte,san-miguel,99900.0,2,2,78
+GBA Norte,san-miguel,108000.0,3,1,111
+GBA Norte,san-miguel,290000.0,4,3,192
+GBA Norte,san-miguel,120000.0,5,2,130
+GBA Norte,san-miguel,750000.0,5,4,400
+GBA Norte,san-miguel,79900.0,4,2,75
+GBA Norte,san-miguel,179000.0,5,3,190
+GBA Norte,san-miguel,149700.0,3,1,139
+GBA Norte,san-miguel,105000.0,4,1,191
+GBA Norte,san-miguel,340000.0,4,3,163
+GBA Norte,san-miguel,59000.0,3,1,110
+GBA Norte,san-miguel,90000.0,4,1,90
+GBA Norte,san-miguel,90000.0,4,1,90
+GBA Norte,san-miguel,160000.0,3,1,100
+GBA Norte,general-san-martin,95000.0,3,1,70
+GBA Norte,general-san-martin,259000.0,4,2,185
+GBA Norte,general-san-martin,109000.0,3,2,67
+GBA Norte,general-san-martin,195000.0,4,3,230
+GBA Norte,general-san-martin,238000.0,4,4,276
+GBA Norte,general-san-martin,90000.0,4,2,100
+GBA Norte,general-san-martin,350000.0,5,3,300
+GBA Norte,general-san-martin,280000.0,4,1,163
+GBA Norte,general-san-martin,209000.0,4,2,183
+GBA Norte,general-san-martin,140000.0,5,3,204
+GBA Norte,general-san-martin,210000.0,6,3,159
+GBA Norte,general-san-martin,95000.0,4,2,135
+GBA Norte,general-san-martin,114000.0,4,2,160
+GBA Norte,general-san-martin,210000.0,7,4,300
+GBA Norte,general-san-martin,450000.0,5,4,353
+GBA Norte,general-san-martin,160000.0,5,3,86
+GBA Norte,general-san-martin,109900.0,4,1,125
+GBA Norte,general-san-martin,148000.0,4,2,102
+GBA Norte,general-san-martin,125000.0,3,1,95
+GBA Norte,general-san-martin,122000.0,4,1,170
+GBA Norte,general-san-martin,210000.0,4,2,103
+GBA Norte,general-san-martin,180000.0,4,1,145
+GBA Norte,general-san-martin,314900.0,4,2,192
+GBA Norte,general-san-martin,122000.0,4,1,170
+GBA Norte,general-san-martin,200000.0,4,3,160
+GBA Norte,general-san-martin,150000.0,4,2,150
+GBA Norte,general-san-martin,109000.0,7,3,185
+GBA Norte,general-san-martin,325000.0,5,2,260
+GBA Norte,general-san-martin,240000.0,4,3,151
+GBA Norte,general-san-martin,99000.0,4,2,160
+GBA Norte,general-san-martin,132000.0,6,2,170
+GBA Norte,general-san-martin,96900.0,3,2,100
+GBA Norte,general-san-martin,140000.0,5,2,120
+GBA Norte,general-san-martin,155000.0,3,1,70
+GBA Norte,general-san-martin,83000.0,4,2,118
+GBA Norte,general-san-martin,185000.0,3,2,163
+GBA Norte,general-san-martin,129000.0,7,2,159
+GBA Norte,general-san-martin,110000.0,3,2,70
+GBA Norte,general-san-martin,120000.0,3,1,116
+GBA Norte,general-san-martin,65000.0,4,1,80
+GBA Norte,general-san-martin,99000.0,4,1,131
+GBA Norte,general-san-martin,150000.0,8,4,230
+GBA Norte,general-san-martin,150000.0,6,2,391
+GBA Norte,general-san-martin,150000.0,3,2,165
+GBA Norte,general-san-martin,199000.0,7,2,360
+GBA Norte,general-san-martin,90000.0,3,1,109
+GBA Norte,general-san-martin,175000.0,4,2,190
+GBA Norte,general-san-martin,145000.0,5,3,250
+GBA Norte,general-san-martin,115000.0,4,2,117
+GBA Norte,vicente-lopez,280000.0,6,1,130
+GBA Norte,vicente-lopez,485000.0,6,4,180
+GBA Norte,vicente-lopez,560000.0,6,3,326
+GBA Norte,vicente-lopez,480000.0,6,1,230
+GBA Norte,vicente-lopez,125000.0,4,2,115
+GBA Norte,vicente-lopez,151000.0,5,1,120
+GBA Norte,vicente-lopez,355000.0,4,2,160
+GBA Norte,vicente-lopez,220000.0,4,2,110
+GBA Norte,vicente-lopez,310000.0,4,1,106
+GBA Norte,vicente-lopez,500000.0,7,3,320
+GBA Norte,vicente-lopez,490000.0,5,4,433
+GBA Norte,vicente-lopez,249900.0,6,4,230
+GBA Norte,vicente-lopez,420000.0,4,2,157
+GBA Norte,vicente-lopez,980000.0,7,5,568
+GBA Norte,vicente-lopez,530000.0,6,3,214
+GBA Norte,vicente-lopez,285000.0,5,2,218
+GBA Norte,vicente-lopez,549000.0,5,3,300
+GBA Norte,vicente-lopez,120000.0,4,1,94
+GBA Norte,vicente-lopez,278000.0,5,3,274
+GBA Norte,vicente-lopez,260000.0,4,1,80
+GBA Norte,vicente-lopez,145000.0,3,2,90
+GBA Norte,vicente-lopez,787000.0,6,5,453
+GBA Norte,vicente-lopez,270000.0,5,3,180
+GBA Norte,vicente-lopez,500000.0,5,2,226
+GBA Norte,vicente-lopez,420000.0,4,2,285
+GBA Norte,vicente-lopez,285000.0,5,2,150
+GBA Norte,vicente-lopez,340000.0,5,3,151
+GBA Norte,vicente-lopez,399000.0,5,2,275
+GBA Norte,vicente-lopez,440000.0,5,3,288
+GBA Norte,vicente-lopez,318000.0,3,1,177
+GBA Norte,vicente-lopez,569000.0,7,5,250
+GBA Norte,vicente-lopez,379000.0,5,4,254
+GBA Norte,vicente-lopez,300000.0,5,2,140
+GBA Norte,vicente-lopez,285000.0,8,2,218
+GBA Norte,vicente-lopez,335000.0,5,3,171
+GBA Norte,vicente-lopez,295000.0,6,3,168
+GBA Norte,vicente-lopez,355000.0,4,2,233
+GBA Norte,vicente-lopez,379000.0,6,3,171
+GBA Norte,vicente-lopez,711000.0,5,3,270
+GBA Norte,vicente-lopez,370000.0,4,3,162
+GBA Norte,vicente-lopez,359000.0,4,2,99
+GBA Norte,vicente-lopez,435000.0,6,4,291
+GBA Norte,vicente-lopez,370000.0,4,2,178
+GBA Norte,vicente-lopez,350000.0,6,2,148
+GBA Norte,vicente-lopez,800000.0,7,5,509
+GBA Norte,vicente-lopez,425000.0,6,3,280
+GBA Norte,malvinas-argentina,219900.0,6,4,140
+GBA Norte,malvinas-argentina,125000.0,4,2,133
+GBA Norte,malvinas-argentina,295000.0,7,4,188
+GBA Norte,malvinas-argentina,130000.0,4,2,140
+GBA Norte,malvinas-argentina,285000.0,3,3,204
+GBA Norte,malvinas-argentina,230000.0,4,2,251
+GBA Norte,malvinas-argentina,82000.0,3,1,88
+GBA Norte,malvinas-argentina,520000.0,6,4,301
+GBA Norte,malvinas-argentina,450000.0,5,4,290
+GBA Norte,malvinas-argentina,850000.0,7,3,486
+GBA Norte,malvinas-argentina,750000.0,7,5,300
+GBA Norte,malvinas-argentina,170000.0,6,3,275
+GBA Norte,malvinas-argentina,124900.0,4,1,232
+GBA Norte,malvinas-argentina,355000.0,4,2,280
+GBA Norte,malvinas-argentina,55000.0,3,1,62
+GBA Norte,malvinas-argentina,265000.0,7,3,422
+GBA Norte,malvinas-argentina,105000.0,4,1,140
+GBA Norte,malvinas-argentina,59000.0,3,1,86
+GBA Norte,malvinas-argentina,430000.0,10,4,200
+GBA Norte,malvinas-argentina,145000.0,5,3,120
+GBA Norte,malvinas-argentina,167000.0,4,1,165
+GBA Norte,malvinas-argentina,81500.0,5,2,112
+GBA Norte,malvinas-argentina,320000.0,4,2,189
+GBA Norte,malvinas-argentina,450000.0,6,5,290
+GBA Norte,malvinas-argentina,320000.0,4,3,193
+GBA Norte,malvinas-argentina,240000.0,6,3,200
+GBA Norte,malvinas-argentina,299000.0,6,3,240
+GBA Norte,malvinas-argentina,285000.0,5,1,200
+GBA Norte,malvinas-argentina,290000.0,5,5,180
+GBA Norte,malvinas-argentina,290000.0,4,2,200
+GBA Norte,malvinas-argentina,320000.0,5,4,240
+GBA Norte,malvinas-argentina,115000.0,6,2,80
+GBA Norte,malvinas-argentina,63000.0,3,1,80
+GBA Norte,malvinas-argentina,290000.0,6,4,171
+GBA Norte,malvinas-argentina,249000.0,4,2,146
+GBA Norte,malvinas-argentina,87000.0,5,2,219
+GBA Norte,malvinas-argentina,65000.0,4,1,160
+GBA Norte,malvinas-argentina,95000.0,4,2,133
+GBA Norte,malvinas-argentina,143000.0,4,1,180
+GBA Norte,malvinas-argentina,470000.0,4,3,360
+GBA Norte,malvinas-argentina,135000.0,4,2,170
+GBA Norte,san-fernando,165000.0,4,1,120
+GBA Norte,san-fernando,99000.0,9,4,230
+GBA Norte,san-fernando,229990.0,4,1,114
+GBA Norte,san-fernando,250000.0,4,1,200
+GBA Norte,san-fernando,680000.0,10,5,500
+GBA Norte,san-fernando,325000.0,3,3,197
+GBA Norte,san-fernando,450000.0,7,2,240
+GBA Norte,san-fernando,530000.0,5,3,290
+GBA Norte,san-fernando,85000.0,2,1,33
+GBA Norte,san-fernando,285000.0,5,3,249
+GBA Norte,san-fernando,240000.0,4,1,180
+GBA Norte,san-fernando,141000.0,3,1,90
+GBA Norte,san-fernando,450000.0,8,3,282
+GBA Norte,san-fernando,275000.0,5,3,203
+GBA Norte,san-fernando,140000.0,3,2,90
+GBA Norte,san-fernando,255000.0,5,1,161
+GBA Norte,san-fernando,120000.0,3,2,84
+GBA Norte,san-fernando,215000.0,4,2,114
+GBA Norte,san-fernando,320000.0,5,2,128
+GBA Norte,san-fernando,480000.0,6,2,200
+GBA Norte,san-fernando,280000.0,4,2,177
+GBA Norte,san-fernando,180000.0,6,3,189
+GBA Norte,san-fernando,295000.0,5,1,144
+GBA Norte,san-fernando,210000.0,3,2,169
+GBA Norte,san-fernando,290000.0,5,2,120
+GBA Norte,san-fernando,370000.0,5,3,303
+GBA Norte,san-fernando,320000.0,5,3,250
+GBA Norte,san-fernando,465000.0,5,5,238
+GBA Norte,san-fernando,650000.0,5,3,181
+GBA Norte,san-fernando,395000.0,6,3,250
+GBA Norte,san-fernando,200000.0,4,2,176
+GBA Norte,san-fernando,190000.0,5,2,144
+GBA Norte,san-fernando,260000.0,5,2,220
+GBA Norte,san-fernando,90000.0,4,1,50
+GBA Norte,san-fernando,155000.0,4,1,106
+GBA Norte,san-fernando,270000.0,4,2,139
+GBA Norte,san-fernando,125000.0,3,1,104
+GBA Norte,san-fernando,120000.0,3,1,70
+GBA Norte,san-fernando,155000.0,4,2,109
+GBA Norte,san-fernando,138000.0,5,2,140
+GBA Norte,san-fernando,200000.0,4,1,116
+GBA Norte,san-fernando,420000.0,6,3,168
+GBA Norte,san-fernando,260000.0,6,2,180
+GBA Norte,san-fernando,145000.0,4,1,100
+GBA Oeste,la-matanza,110000.0,5,1,134
+GBA Oeste,la-matanza,140000.0,3,2,130
+GBA Oeste,la-matanza,50000.0,3,1,122
+GBA Oeste,la-matanza,83000.0,3,2,140
+GBA Oeste,la-matanza,169000.0,3,2,120
+GBA Oeste,la-matanza,94000.0,3,1,141
+GBA Oeste,la-matanza,100000.0,6,2,180
+GBA Oeste,la-matanza,135000.0,4,2,120
+GBA Oeste,la-matanza,369000.0,5,5,330
+GBA Oeste,la-matanza,219000.0,3,1,116
+GBA Oeste,la-matanza,310000.0,5,3,260
+GBA Oeste,la-matanza,185000.0,3,1,90
+GBA Oeste,la-matanza,180000.0,3,2,90
+GBA Oeste,la-matanza,159900.0,4,2,167
+GBA Oeste,la-matanza,199000.0,4,3,160
+GBA Oeste,la-matanza,300000.0,4,3,250
+GBA Oeste,la-matanza,240000.0,4,3,185
+GBA Oeste,la-matanza,320000.0,6,3,480
+GBA Oeste,la-matanza,280000.0,6,3,250
+GBA Oeste,la-matanza,115000.0,4,1,180
+GBA Oeste,la-matanza,480000.0,5,4,262
+GBA Oeste,la-matanza,99900.0,4,2,140
+GBA Oeste,la-matanza,59000.0,2,2,35
+GBA Oeste,la-matanza,89000.0,4,2,95
+GBA Oeste,la-matanza,350000.0,4,2,242
+GBA Oeste,la-matanza,158000.0,5,2,180
+GBA Oeste,la-matanza,210000.0,4,3,211
+GBA Oeste,la-matanza,250000.0,6,3,266
+GBA Oeste,la-matanza,264900.0,5,3,207
+GBA Oeste,la-matanza,120000.0,5,1,282
+GBA Oeste,la-matanza,120000.0,3,2,115
+GBA Oeste,la-matanza,230000.0,6,3,225
+GBA Oeste,la-matanza,159000.0,5,3,120
+GBA Oeste,la-matanza,269000.0,6,4,117
+GBA Oeste,la-matanza,190000.0,5,3,248
+GBA Oeste,la-matanza,650000.0,6,3,410
+GBA Oeste,la-matanza,125000.0,3,2,110
+GBA Oeste,la-matanza,139000.0,4,2,160
+GBA Oeste,la-matanza,155000.0,4,2,150
+GBA Oeste,la-matanza,450000.0,4,3,200
+GBA Oeste,la-matanza,199000.0,7,3,238
+GBA Oeste,la-matanza,269000.0,5,4,171
+GBA Oeste,la-matanza,490000.0,9,6,500
+GBA Oeste,la-matanza,170000.0,4,2,130
+GBA Oeste,la-matanza,199900.0,5,3,240
+GBA Oeste,la-matanza,270000.0,5,2,250
+GBA Oeste,la-matanza,135000.0,4,2,160
+GBA Oeste,moron,135000.0,3,1,182
+GBA Oeste,moron,235000.0,6,4,447
+GBA Oeste,moron,169000.0,4,1,136
+GBA Oeste,moron,49500.0,3,1,52
+GBA Oeste,moron,230000.0,5,3,184
+GBA Oeste,moron,338000.0,5,3,264
+GBA Oeste,moron,65000.0,4,1,90
+GBA Oeste,moron,290000.0,4,2,227
+GBA Oeste,moron,320000.0,5,3,250
+GBA Oeste,moron,285000.0,5,3,240
+GBA Oeste,moron,189900.0,6,2,209
+GBA Oeste,moron,550000.0,5,5,400
+GBA Oeste,moron,155000.0,4,2,89
+GBA Oeste,moron,95000.0,4,2,118
+GBA Oeste,moron,330000.0,6,3,200
+GBA Oeste,moron,185000.0,4,2,155
+GBA Oeste,moron,95000.0,5,2,180
+GBA Oeste,moron,140000.0,5,2,105
+GBA Oeste,moron,326700.0,4,3,242
+GBA Oeste,moron,160000.0,4,2,160
+GBA Oeste,moron,165000.0,4,2,115
+GBA Oeste,moron,185000.0,5,2,176
+GBA Oeste,moron,140000.0,4,1,110
+GBA Oeste,moron,105000.0,4,1,129
+GBA Oeste,moron,134000.0,3,2,180
+GBA Oeste,moron,165000.0,4,3,234
+GBA Oeste,moron,185000.0,5,2,185
+GBA Oeste,moron,415000.0,7,4,464
+GBA Oeste,moron,280000.0,4,3,290
+GBA Oeste,moron,285000.0,5,3,250
+GBA Oeste,moron,185000.0,5,2,155
+GBA Oeste,moron,115000.0,3,2,104
+GBA Oeste,moron,325000.0,5,2,225
+GBA Oeste,moron,237000.0,4,2,259
+GBA Oeste,moron,279700.0,5,2,260
+GBA Oeste,moron,175000.0,4,1,135
+GBA Oeste,moron,150000.0,3,1,155
+GBA Oeste,moron,299900.0,6,2,230
+GBA Oeste,moron,295000.0,4,2,230
+GBA Oeste,moron,160000.0,5,2,182
+GBA Oeste,moron,86000.0,4,1,124
+GBA Oeste,moron,245000.0,4,3,220
+GBA Oeste,moron,450000.0,5,3,282
+GBA Oeste,moron,380000.0,5,3,280
+GBA Oeste,moron,226000.0,5,3,180
+GBA Oeste,moron,130000.0,3,1,130
+GBA Oeste,moron,220000.0,6,4,183
+GBA Oeste,moron,390000.0,5,4,388
+GBA Oeste,moron,295000.0,5,2,184
+GBA Oeste,ituzaingo,410000.0,4,4,229
+GBA Oeste,ituzaingo,295000.0,4,4,184
+GBA Oeste,ituzaingo,168000.0,5,1,90
+GBA Oeste,ituzaingo,395000.0,4,4,230
+GBA Oeste,ituzaingo,120000.0,3,1,65
+GBA Oeste,ituzaingo,580000.0,6,4,360
+GBA Oeste,ituzaingo,420000.0,3,4,270
+GBA Oeste,ituzaingo,145000.0,3,1,115
+GBA Oeste,ituzaingo,220000.0,5,4,220
+GBA Oeste,ituzaingo,400000.0,4,2,190
+GBA Oeste,ituzaingo,230000.0,4,2,112
+GBA Oeste,ituzaingo,875000.0,5,5,467
+GBA Oeste,ituzaingo,240000.0,4,2,160
+GBA Oeste,ituzaingo,900000.0,5,6,600
+GBA Oeste,ituzaingo,250000.0,2,3,120
+GBA Oeste,ituzaingo,266000.0,4,2,220
+GBA Oeste,ituzaingo,240000.0,5,4,185
+GBA Oeste,ituzaingo,180000.0,5,3,132
+GBA Oeste,ituzaingo,330000.0,5,2,220
+GBA Oeste,ituzaingo,240000.0,4,3,135
+GBA Oeste,ituzaingo,470000.0,5,5,313
+GBA Oeste,ituzaingo,180000.0,4,1,150
+GBA Oeste,ituzaingo,215000.0,4,3,180
+GBA Oeste,ituzaingo,230000.0,4,2,200
+GBA Oeste,ituzaingo,109000.0,5,2,90
+GBA Oeste,ituzaingo,408000.0,5,4,310
+GBA Oeste,ituzaingo,245000.0,6,2,170
+GBA Oeste,ituzaingo,95000.0,4,2,148
+GBA Oeste,ituzaingo,625000.0,4,3,350
+GBA Oeste,ituzaingo,880000.0,7,3,427
+GBA Oeste,ituzaingo,95000.0,3,1,88
+GBA Oeste,ituzaingo,350000.0,5,3,300
+GBA Oeste,ituzaingo,105000.0,3,1,76
+GBA Oeste,ituzaingo,300000.0,5,1,150
+GBA Oeste,ituzaingo,109000.0,4,1,110
+GBA Oeste,ituzaingo,395000.0,4,3,307
+GBA Oeste,ituzaingo,114900.0,4,1,184
+GBA Oeste,ituzaingo,299999.0,5,2,134
+GBA Oeste,ituzaingo,280000.0,4,3,250
+GBA Oeste,ituzaingo,395000.0,4,3,260
+GBA Oeste,ituzaingo,290000.0,4,2,163
+GBA Oeste,ituzaingo,440000.0,4,2,179
+GBA Oeste,ituzaingo,219999.0,4,2,300
+GBA Oeste,ituzaingo,650000.0,4,4,336
+GBA Oeste,ituzaingo,98000.0,3,1,90
+GBA Oeste,ituzaingo,130000.0,3,2,130
+GBA Oeste,ituzaingo,320000.0,5,5,450
+GBA Oeste,moreno,33000.0,3,2,300
+GBA Oeste,moreno,580000.0,7,6,450
+GBA Oeste,moreno,105000.0,4,2,128
+GBA Oeste,moreno,580000.0,4,4,320
+GBA Oeste,moreno,185000.0,4,2,120
+GBA Oeste,moreno,149000.0,3,2,130
+GBA Oeste,moreno,345000.0,5,3,800
+GBA Oeste,moreno,430000.0,6,3,206
+GBA Oeste,moreno,620000.0,4,4,350
+GBA Oeste,moreno,450000.0,6,3,350
+GBA Oeste,moreno,335000.0,6,3,206
+GBA Oeste,moreno,350000.0,5,3,250
+GBA Oeste,moreno,390000.0,4,3,180
+GBA Oeste,moreno,590000.0,5,4,495
+GBA Oeste,moreno,320000.0,6,4,218
+GBA Oeste,moreno,375000.0,6,3,355
+GBA Oeste,moreno,295000.0,4,3,235
+GBA Oeste,moreno,750000.0,5,3,489
+GBA Oeste,moreno,299000.0,5,3,177
+GBA Oeste,moreno,420000.0,4,3,235
+GBA Oeste,moreno,320000.0,5,3,300
+GBA Oeste,moreno,180000.0,4,2,100
+GBA Oeste,moreno,247000.0,4,2,125
+GBA Oeste,moreno,350000.0,5,4,230
+GBA Oeste,moreno,420000.0,4,3,240
+GBA Oeste,moreno,89999.0,4,2,74
+GBA Oeste,moreno,45000.0,3,1,59
+GBA Oeste,moreno,180000.0,3,1,88
+GBA Oeste,moreno,89000.0,3,2,130
+GBA Oeste,moreno,99950.0,6,3,190
+GBA Oeste,moreno,350000.0,6,4,226
+GBA Oeste,moreno,750000.0,7,6,650
+GBA Oeste,moreno,224900.0,6,2,206
+GBA Oeste,moreno,43000.0,4,1,92
+GBA Oeste,moreno,295000.0,6,5,258
+GBA Oeste,moreno,84000.0,4,2,160
+GBA Oeste,moreno,75000.0,4,1,144
+GBA Oeste,moreno,260000.0,6,4,180
+GBA Oeste,moreno,95000.0,4,1,456
+GBA Oeste,moreno,750000.0,4,3,350
+GBA Oeste,moreno,83000.0,5,3,100
+GBA Oeste,moreno,450000.0,4,4,400
+GBA Oeste,merlo,69000.0,4,1,130
+GBA Oeste,merlo,153000.0,5,3,130
+GBA Oeste,merlo,110000.0,3,1,110
+GBA Oeste,merlo,22000.0,3,1,45
+GBA Oeste,merlo,75000.0,4,1,130
+GBA Oeste,merlo,230000.0,4,2,134
+GBA Oeste,merlo,130000.0,7,3,130
+GBA Oeste,merlo,80000.0,6,3,308
+GBA Oeste,merlo,80000.0,3,1,85
+GBA Oeste,merlo,189000.0,4,2,118
+GBA Oeste,merlo,120000.0,3,1,130
+GBA Oeste,merlo,130000.0,6,2,172
+GBA Oeste,merlo,216000.0,5,4,641
+GBA Oeste,merlo,299000.0,5,4,153
+GBA Oeste,merlo,85000.0,3,1,140
+GBA Oeste,merlo,43000.0,4,1,80
+GBA Oeste,merlo,78000.0,3,1,115
+GBA Oeste,merlo,44000.0,4,1,80
+GBA Oeste,merlo,23000.0,3,1,120
+GBA Oeste,merlo,81000.0,5,2,680
+GBA Oeste,merlo,80000.0,6,4,200
+GBA Oeste,merlo,105000.0,4,2,90
+GBA Oeste,merlo,130000.0,4,3,151
+GBA Oeste,merlo,143000.0,6,4,300
+GBA Oeste,merlo,225000.0,4,2,200
+GBA Oeste,merlo,52000.0,3,1,65
+GBA Oeste,merlo,210000.0,7,4,300
+GBA Oeste,merlo,220000.0,4,3,200
+GBA Oeste,merlo,75000.0,3,1,640
+GBA Oeste,merlo,250000.0,5,3,178
+GBA Oeste,merlo,78000.0,5,2,130
+GBA Oeste,merlo,900000.0,4,3,330
+GBA Oeste,merlo,93000.0,6,2,214
+GBA Oeste,merlo,230000.0,5,4,250
+GBA Oeste,merlo,189000.0,4,2,120
+GBA Oeste,merlo,130000.0,3,1,100
+GBA Oeste,merlo,260000.0,4,3,270
+GBA Oeste,merlo,215000.0,3,2,130
+GBA Oeste,merlo,165000.0,3,2,170
+GBA Oeste,merlo,70000.0,6,2,136
+GBA Oeste,merlo,155000.0,5,2,250
+GBA Oeste,merlo,77000.0,4,1,130
+GBA Oeste,merlo,95000.0,3,1,135
+GBA Oeste,merlo,63000.0,3,1,150
+GBA Oeste,merlo,87000.0,3,1,70
+GBA Oeste,merlo,150000.0,5,2,150
+GBA Oeste,merlo,45000.0,4,2,100
+GBA Oeste,castelar,198000.0,4,1,120
+GBA Oeste,castelar,200000.0,5,3,195
+GBA Oeste,castelar,77000.0,3,1,73
+GBA Oeste,castelar,240000.0,4,3,178
+GBA Oeste,castelar,315000.0,5,4,285
+GBA Oeste,castelar,97000.0,5,2,138
+GBA Oeste,castelar,75900.0,3,1,65
+GBA Oeste,castelar,300000.0,4,3,200
+GBA Oeste,castelar,149999.0,5,2,132
+GBA Oeste,castelar,155000.0,5,2,122
+GBA Oeste,castelar,280000.0,4,1,276
+GBA Oeste,castelar,250000.0,5,3,219
+GBA Oeste,castelar,119000.0,4,2,242
+GBA Oeste,castelar,109000.0,3,1,70
+GBA Oeste,castelar,169000.0,4,3,150
+GBA Oeste,castelar,299000.0,4,4,179
+GBA Oeste,castelar,95000.0,3,1,80
+GBA Oeste,castelar,250000.0,4,2,150
+GBA Oeste,castelar,215000.0,4,2,200
+GBA Oeste,castelar,178000.0,4,3,180
+GBA Oeste,castelar,48000.0,3,1,95
+GBA Oeste,castelar,109900.0,4,2,150
+GBA Oeste,castelar,379000.0,6,2,360
+GBA Oeste,castelar,218000.0,5,2,126
+GBA Oeste,castelar,180000.0,4,1,135
+GBA Oeste,castelar,205000.0,5,4,120
+GBA Oeste,castelar,398000.0,7,3,380
+GBA Oeste,castelar,320000.0,4,3,200
+GBA Oeste,castelar,218000.0,5,2,126
+GBA Oeste,castelar,280000.0,6,3,250
+GBA Oeste,castelar,420000.0,5,3,232
+GBA Oeste,castelar,650000.0,5,4,450
+GBA Oeste,castelar,265000.0,4,1,160
+GBA Oeste,castelar,720000.0,6,3,317
+GBA Oeste,castelar,190000.0,5,2,191
+GBA Oeste,castelar,149000.0,4,2,188
+GBA Oeste,castelar,379000.0,5,3,360
+GBA Oeste,castelar,550000.0,8,5,550
+GBA Oeste,castelar,195000.0,5,3,278
+GBA Oeste,castelar,179000.0,4,2,110
+GBA Oeste,castelar,180000.0,5,3,230
+GBA Oeste,castelar,180000.0,5,3,230
+GBA Oeste,castelar,109900.0,4,2,150
+GBA Oeste,castelar,200000.0,5,2,174
+GBA Oeste,castelar,350000.0,5,4,300
+GBA Oeste,castelar,109900.0,4,2,150
+GBA Oeste,castelar,109900.0,4,2,150
+GBA Oeste,castelar,290000.0,5,3,300
+GBA Oeste,tres-de-febrero,185000.0,4,4,136
+GBA Oeste,tres-de-febrero,200000.0,6,4,201
+GBA Oeste,tres-de-febrero,470000.0,4,2,182
+GBA Oeste,tres-de-febrero,620000.0,6,4,295
+GBA Oeste,tres-de-febrero,98000.0,3,1,65
+GBA Oeste,tres-de-febrero,105000.0,4,1,120
+GBA Oeste,tres-de-febrero,105000.0,4,1,103
+GBA Oeste,tres-de-febrero,200000.0,5,3,220
+GBA Oeste,tres-de-febrero,135000.0,6,2,200
+GBA Oeste,tres-de-febrero,205000.0,4,2,120
+GBA Oeste,tres-de-febrero,100000.0,3,1,90
+GBA Oeste,tres-de-febrero,140000.0,5,2,140
+GBA Oeste,tres-de-febrero,415000.0,7,4,464
+GBA Oeste,tres-de-febrero,500000.0,5,3,270
+GBA Oeste,tres-de-febrero,92000.0,4,1,120
+GBA Oeste,tres-de-febrero,345000.0,6,3,200
+GBA Oeste,tres-de-febrero,170000.0,5,3,128
+GBA Oeste,tres-de-febrero,225000.0,2,1,160
+GBA Oeste,tres-de-febrero,149900.0,3,1,70
+GBA Oeste,tres-de-febrero,139000.0,5,2,154
+GBA Oeste,tres-de-febrero,166000.0,4,2,210
+GBA Oeste,tres-de-febrero,219900.0,6,2,300
+GBA Oeste,tres-de-febrero,78000.0,4,1,85
+GBA Oeste,tres-de-febrero,89000.0,4,1,115
+GBA Oeste,tres-de-febrero,148000.0,4,2,149
+GBA Oeste,tres-de-febrero,200000.0,4,2,175
+GBA Oeste,tres-de-febrero,177000.0,4,2,175
+GBA Oeste,tres-de-febrero,219000.0,6,2,176
+GBA Oeste,tres-de-febrero,120000.0,4,2,109
+GBA Oeste,tres-de-febrero,195000.0,4,3,145
+GBA Oeste,tres-de-febrero,139900.0,5,2,100
+GBA Oeste,tres-de-febrero,65000.0,3,1,78
+GBA Oeste,tres-de-febrero,155000.0,3,1,112
+GBA Oeste,tres-de-febrero,90000.0,4,2,112
+GBA Oeste,tres-de-febrero,380000.0,7,2,215
+GBA Oeste,tres-de-febrero,185000.0,5,2,111
+GBA Oeste,tres-de-febrero,250000.0,6,3,350
+GBA Oeste,tres-de-febrero,150000.0,5,2,120
+GBA Oeste,tres-de-febrero,45000.0,3,1,20
+GBA Oeste,tres-de-febrero,250000.0,3,3,150
+GBA Oeste,tres-de-febrero,650000.0,7,5,350
+GBA Oeste,tres-de-febrero,198000.0,4,2,120
+GBA Oeste,tres-de-febrero,190000.0,4,1,116
+GBA Oeste,tres-de-febrero,118000.0,4,2,130
+GBA Oeste,tres-de-febrero,289000.0,4,3,200
+GBA Oeste,tres-de-febrero,445000.0,5,4,197
+GBA Oeste,tres-de-febrero,270000.0,6,2,170
+GBA Oeste,tres-de-febrero,240000.0,4,2,147
+GBA Oeste,hurlingham,330000.0,6,3,193
+GBA Oeste,hurlingham,83500.0,4,1,100
+GBA Oeste,hurlingham,125000.0,4,2,150
+GBA Oeste,hurlingham,145000.0,5,1,129
+GBA Oeste,hurlingham,114000.0,4,2,125
+GBA Oeste,hurlingham,485000.0,6,5,324
+GBA Oeste,hurlingham,329000.0,6,2,204
+GBA Oeste,hurlingham,250000.0,5,3,267
+GBA Oeste,hurlingham,199500.0,4,2,130
+GBA Oeste,hurlingham,199500.0,4,2,130
+GBA Oeste,hurlingham,300000.0,5,5,639
+GBA Oeste,hurlingham,174900.0,6,2,183
+GBA Oeste,hurlingham,75000.0,4,1,95
+GBA Oeste,hurlingham,155000.0,4,2,95
+GBA Oeste,hurlingham,80000.0,5,1,88
+GBA Oeste,hurlingham,99999.0,4,2,273
+GBA Oeste,hurlingham,65000.0,3,1,80
+GBA Oeste,hurlingham,124900.0,4,2,196
+GBA Oeste,hurlingham,280000.0,5,3,250
+GBA Oeste,hurlingham,450000.0,5,4,386
+GBA Oeste,hurlingham,220000.0,4,2,266
+GBA Oeste,hurlingham,200000.0,7,2,230
+GBA Oeste,hurlingham,165000.0,6,4,255
+GBA Oeste,hurlingham,89900.0,5,1,70
+GBA Oeste,hurlingham,105000.0,4,1,150
+GBA Oeste,hurlingham,140000.0,4,2,132
+GBA Oeste,hurlingham,135000.0,4,1,150
+GBA Oeste,hurlingham,98000.0,5,2,150
+GBA Oeste,hurlingham,199000.0,4,3,253
+GBA Oeste,hurlingham,90000.0,3,1,98
+GBA Oeste,hurlingham,255000.0,3,3,152
+GBA Oeste,hurlingham,118000.0,3,1,100
+GBA Oeste,hurlingham,100000.0,3,1,82
+GBA Oeste,hurlingham,139000.0,3,1,300
+GBA Oeste,hurlingham,110000.0,3,1,115
+GBA Oeste,hurlingham,55000.0,3,2,40
+GBA Oeste,hurlingham,95000.0,3,1,120
+GBA Oeste,hurlingham,120000.0,3,2,80
+GBA Oeste,hurlingham,90000.0,2,1,300
+GBA Oeste,hurlingham,240000.0,5,4,255
+GBA Oeste,hurlingham,100000.0,4,2,240
+GBA Oeste,hurlingham,320000.0,4,1,100
+GBA Oeste,hurlingham,49000.0,4,1,120
+GBA Oeste,hurlingham,140000.0,5,2,110
+GBA Oeste,hurlingham,49000.0,2,1,62
+GBA Oeste,hurlingham,43000.0,3,1,180
+GBA Oeste,hurlingham,110000.0,4,2,410
+GBA Oeste,hurlingham,65000.0,3,2,120
+GBA Oeste,hurlingham,52000.0,3,2,82
+GBA Oeste,hurlingham,240000.0,5,2,164
+GBA Sur,la-plata,155000.0,3,2,97
+GBA Sur,la-plata,230000.0,4,3,150
+GBA Sur,la-plata,48000.0,2,1,52
+GBA Sur,la-plata,135000.0,5,2,134
+GBA Sur,la-plata,119000.0,6,2,135
+GBA Sur,la-plata,130000.0,4,2,91
+GBA Sur,la-plata,125000.0,6,4,210
+GBA Sur,la-plata,150000.0,4,1,140
+GBA Sur,la-plata,128000.0,4,1,82
+GBA Sur,la-plata,450000.0,7,2,198
+GBA Sur,la-plata,67000.0,3,1,71
+GBA Sur,la-plata,190000.0,7,2,256
+GBA Sur,la-plata,140000.0,4,1,172
+GBA Sur,la-plata,65000.0,4,2,110
+GBA Sur,la-plata,95000.0,3,1,80
+GBA Sur,la-plata,49000.0,4,1,100
+GBA Sur,la-plata,230000.0,5,1,140
+GBA Sur,la-plata,75000.0,4,1,133
+GBA Sur,la-plata,219000.0,5,2,145
+GBA Sur,la-plata,89000.0,3,1,65
+GBA Sur,la-plata,227000.0,5,2,214
+GBA Sur,la-plata,145000.0,3,2,132
+GBA Sur,la-plata,225000.0,2,2,176
+GBA Sur,la-plata,315000.0,5,4,242
+GBA Sur,la-plata,310000.0,4,2,170
+GBA Sur,la-plata,320000.0,4,2,131
+GBA Sur,la-plata,250000.0,4,2,152
+GBA Sur,la-plata,180000.0,7,2,209
+GBA Sur,la-plata,280000.0,6,4,374
+GBA Sur,la-plata,87000.0,5,2,200
+GBA Sur,la-plata,420000.0,5,4,310
+GBA Sur,la-plata,115000.0,3,2,100
+GBA Sur,la-plata,320000.0,4,2,370
+GBA Sur,la-plata,124900.0,5,2,161
+GBA Sur,la-plata,226000.0,6,2,128
+GBA Sur,la-plata,165000.0,4,1,113
+GBA Sur,la-plata,270000.0,5,2,150
+GBA Sur,la-plata,200000.0,8,3,253
+GBA Sur,la-plata,160000.0,9,1,209
+GBA Sur,la-plata,100000.0,4,3,123
+GBA Sur,la-plata,95000.0,5,2,163
+GBA Sur,la-plata,150000.0,5,2,231
+GBA Sur,la-plata,165000.0,6,2,216
+GBA Sur,la-plata,260000.0,5,3,150
+GBA Sur,la-plata,307500.0,6,2,250
+GBA Sur,la-plata,210000.0,3,2,150
+GBA Sur,la-plata,119000.0,4,1,122
+GBA Sur,la-plata,350000.0,10,2,317
+GBA Sur,esteban-echeverria,28000.0,4,2,70
+GBA Sur,esteban-echeverria,245000.0,4,2,765
+GBA Sur,esteban-echeverria,260000.0,5,4,175
+GBA Sur,esteban-echeverria,155000.0,6,2,172
+GBA Sur,esteban-echeverria,250000.0,4,2,200
+GBA Sur,esteban-echeverria,229000.0,5,2,152
+GBA Sur,esteban-echeverria,60000.0,4,2,165
+GBA Sur,esteban-echeverria,270000.0,4,4,180
+GBA Sur,esteban-echeverria,350000.0,4,6,340
+GBA Sur,esteban-echeverria,200000.0,5,3,200
+GBA Sur,esteban-echeverria,150000.0,4,2,150
+GBA Sur,esteban-echeverria,295000.0,5,3,220
+GBA Sur,esteban-echeverria,560000.0,6,5,251
+GBA Sur,esteban-echeverria,170000.0,4,1,170
+GBA Sur,esteban-echeverria,450000.0,7,4,280
+GBA Sur,esteban-echeverria,90000.0,4,2,150
+GBA Sur,esteban-echeverria,260000.0,5,3,172
+GBA Sur,esteban-echeverria,310000.0,4,2,250
+GBA Sur,esteban-echeverria,330000.0,4,3,270
+GBA Sur,esteban-echeverria,750000.0,6,4,295
+GBA Sur,esteban-echeverria,215000.0,4,2,365
+GBA Sur,esteban-echeverria,320000.0,6,2,269
+GBA Sur,esteban-echeverria,300000.0,5,3,348
+GBA Sur,esteban-echeverria,260000.0,6,2,261
+GBA Sur,esteban-echeverria,435000.0,5,4,280
+GBA Sur,esteban-echeverria,480000.0,4,2,251
+GBA Sur,esteban-echeverria,750000.0,6,4,360
+GBA Sur,esteban-echeverria,329000.0,6,3,230
+GBA Sur,esteban-echeverria,980000.0,6,4,351
+GBA Sur,esteban-echeverria,850000.0,4,4,350
+GBA Sur,esteban-echeverria,650000.0,5,3,300
+GBA Sur,esteban-echeverria,195000.0,4,3,270
+GBA Sur,esteban-echeverria,375000.0,4,4,206
+GBA Sur,esteban-echeverria,260000.0,5,3,170
+GBA Sur,esteban-echeverria,220000.0,5,3,220
+GBA Sur,esteban-echeverria,250000.0,5,4,222
+GBA Sur,esteban-echeverria,930000.0,7,4,370
+GBA Sur,esteban-echeverria,890000.0,5,4,400
+GBA Sur,esteban-echeverria,215000.0,4,2,172
+GBA Sur,esteban-echeverria,880000.0,5,4,330
+GBA Sur,esteban-echeverria,260000.0,4,2,250
+GBA Sur,quilmes,325000.0,5,3,281
+GBA Sur,quilmes,125000.0,3,1,180
+GBA Sur,quilmes,55000.0,3,1,50
+GBA Sur,quilmes,80000.0,5,2,130
+GBA Sur,quilmes,189000.0,4,1,250
+GBA Sur,quilmes,260000.0,3,3,112
+GBA Sur,quilmes,600000.0,4,3,190
+GBA Sur,quilmes,500000.0,6,4,400
+GBA Sur,quilmes,60000.0,3,1,78
+GBA Sur,quilmes,160000.0,4,3,210
+GBA Sur,quilmes,75000.0,4,1,100
+GBA Sur,quilmes,247000.0,4,3,220
+GBA Sur,quilmes,72000.0,3,1,110
+GBA Sur,quilmes,205000.0,4,2,200
+GBA Sur,quilmes,189000.0,4,2,220
+GBA Sur,quilmes,110000.0,4,2,78
+GBA Sur,quilmes,100000.0,4,2,155
+GBA Sur,quilmes,139900.0,4,1,245
+GBA Sur,quilmes,150000.0,3,2,80
+GBA Sur,quilmes,148000.0,5,2,251
+GBA Sur,quilmes,240000.0,8,3,380
+GBA Sur,quilmes,75000.0,4,2,113
+GBA Sur,quilmes,145000.0,5,2,174
+GBA Sur,quilmes,130000.0,5,2,125
+GBA Sur,quilmes,130000.0,5,2,200
+GBA Sur,quilmes,120000.0,6,2,159
+GBA Sur,quilmes,899900.0,5,4,330
+GBA Sur,quilmes,110000.0,3,1,445
+GBA Sur,quilmes,110000.0,4,2,186
+GBA Sur,quilmes,180000.0,4,3,219
+GBA Sur,quilmes,230000.0,4,3,323
+GBA Sur,quilmes,135000.0,4,2,177
+GBA Sur,quilmes,300000.0,4,1,290
+GBA Sur,quilmes,170000.0,4,2,229
+GBA Sur,quilmes,155000.0,4,3,293
+GBA Sur,quilmes,240000.0,6,2,240
+GBA Sur,quilmes,160000.0,4,2,145
+GBA Sur,quilmes,135000.0,4,2,111
+GBA Sur,quilmes,275000.0,4,3,197
+GBA Sur,quilmes,49500.0,3,1,97
+GBA Sur,quilmes,128000.0,5,3,145
+GBA Sur,quilmes,230000.0,3,2,137
+GBA Sur,quilmes,139000.0,2,1,84
+GBA Sur,quilmes,153000.0,4,1,98
+GBA Sur,quilmes,119000.0,4,3,155
+GBA Sur,quilmes,280000.0,4,2,183
+GBA Sur,quilmes,450000.0,5,2,274
+GBA Sur,lomas-de-zamora,123000.0,4,2,148
+GBA Sur,lomas-de-zamora,330000.0,6,3,120
+GBA Sur,lomas-de-zamora,70000.0,5,1,75
+GBA Sur,lomas-de-zamora,180000.0,3,1,108
+GBA Sur,lomas-de-zamora,164990.0,5,2,180
+GBA Sur,lomas-de-zamora,470000.0,5,3,253
+GBA Sur,lomas-de-zamora,120000.0,4,2,165
+GBA Sur,lomas-de-zamora,122000.0,5,2,129
+GBA Sur,lomas-de-zamora,154900.0,3,1,85
+GBA Sur,lomas-de-zamora,320000.0,5,3,219
+GBA Sur,lomas-de-zamora,140000.0,6,2,161
+GBA Sur,lomas-de-zamora,95000.0,4,2,119
+GBA Sur,lomas-de-zamora,194990.0,5,2,131
+GBA Sur,lomas-de-zamora,99000.0,4,1,97
+GBA Sur,lomas-de-zamora,549000.0,5,4,335
+GBA Sur,lomas-de-zamora,449000.0,7,3,266
+GBA Sur,lomas-de-zamora,272000.0,5,4,370
+GBA Sur,lomas-de-zamora,69990.0,4,2,121
+GBA Sur,lomas-de-zamora,289990.0,7,4,273
+GBA Sur,lomas-de-zamora,359990.0,6,1,191
+GBA Sur,lomas-de-zamora,119000.0,3,1,100
+GBA Sur,lomas-de-zamora,239000.0,5,1,320
+GBA Sur,lomas-de-zamora,199000.0,3,1,150
+GBA Sur,lomas-de-zamora,180000.0,4,2,161
+GBA Sur,lomas-de-zamora,890000.0,6,3,300
+GBA Sur,lomas-de-zamora,359990.0,5,4,180
+GBA Sur,lomas-de-zamora,460000.0,5,3,224
+GBA Sur,lomas-de-zamora,460000.0,5,3,224
+GBA Sur,lomas-de-zamora,460000.0,5,3,224
+GBA Sur,lomas-de-zamora,289900.0,6,4,235
+GBA Sur,lomas-de-zamora,289900.0,6,4,235
+GBA Sur,lomas-de-zamora,239000.0,5,5,214
+GBA Sur,lomas-de-zamora,68000.0,4,2,190
+GBA Sur,lomas-de-zamora,450000.0,5,2,250
+GBA Sur,lomas-de-zamora,450000.0,5,2,250
+GBA Sur,lomas-de-zamora,65000.0,3,1,75
+GBA Sur,lomas-de-zamora,72000.0,4,2,126
+GBA Sur,lomas-de-zamora,145000.0,4,1,108
+GBA Sur,lomas-de-zamora,275000.0,5,3,248
+GBA Sur,lomas-de-zamora,64998.99999999999,3,1,60
+GBA Sur,lomas-de-zamora,290000.0,5,2,300
+GBA Sur,lomas-de-zamora,85900.0,4,2,139
+GBA Sur,lomas-de-zamora,179900.0,4,2,210
+GBA Sur,lomas-de-zamora,89000.0,4,2,180
+GBA Sur,lomas-de-zamora,139900.0,3,2,100
+GBA Sur,lomas-de-zamora,198000.0,5,2,200
+GBA Sur,lomas-de-zamora,260000.0,4,3,155
+GBA Sur,ezeiza,215000.0,5,2,142
+GBA Sur,ezeiza,690000.0,5,5,310
+GBA Sur,ezeiza,239000.0,4,2,150
+GBA Sur,ezeiza,370000.0,4,4,250
+GBA Sur,ezeiza,370000.0,3,3,260
+GBA Sur,ezeiza,550000.0,5,2,310
+GBA Sur,ezeiza,75000.0,2,1,79
+GBA Sur,ezeiza,350000.0,4,2,270
+GBA Sur,ezeiza,825000.0,5,4,290
+GBA Sur,ezeiza,270000.0,4,2,190
+GBA Sur,ezeiza,250000.0,5,3,288
+GBA Sur,ezeiza,485000.0,4,2,220
+GBA Sur,ezeiza,148000.0,4,2,75
+GBA Sur,ezeiza,229000.0,6,2,150
+GBA Sur,ezeiza,330000.0,7,3,369
+GBA Sur,ezeiza,334900.0,5,4,226
+GBA Sur,ezeiza,185000.0,4,3,135
+GBA Sur,ezeiza,199000.0,5,3,149
+GBA Sur,ezeiza,350000.0,6,2,251
+GBA Sur,ezeiza,275000.0,4,2,150
+GBA Sur,ezeiza,287000.0,6,2,200
+GBA Sur,ezeiza,250000.0,5,4,150
+GBA Sur,ezeiza,370000.0,6,3,207
+GBA Sur,ezeiza,890000.0,4,4,380
+GBA Sur,ezeiza,145000.0,4,2,200
+GBA Sur,ezeiza,279000.0,8,4,265
+GBA Sur,ezeiza,540000.0,4,3,240
+GBA Sur,ezeiza,710000.0,8,3,402
+GBA Sur,ezeiza,270000.0,5,2,800
+GBA Sur,ezeiza,980000.0,7,4,350
+GBA Sur,ezeiza,269000.0,4,3,200
+GBA Sur,ezeiza,298000.0,5,3,199
+GBA Sur,ezeiza,349000.0,4,3,262
+GBA Sur,ezeiza,550000.0,5,2,400
+GBA Sur,ezeiza,540000.0,6,4,185
+GBA Sur,ezeiza,305000.0,4,2,200
+GBA Sur,ezeiza,197000.0,5,2,143
+GBA Sur,ezeiza,790000.0,9,6,600
+GBA Sur,ezeiza,590000.0,5,4,245
+GBA Sur,ezeiza,275000.0,5,2,166
+GBA Sur,ezeiza,189500.0,4,2,318
+GBA Sur,ezeiza,920000.0,6,6,410
+GBA Sur,ezeiza,300000.0,5,4,220
+GBA Sur,berazategui,70000.0,3,1,78
+GBA Sur,berazategui,329000.0,4,2,145
+GBA Sur,berazategui,85000.0,2,1,60
+GBA Sur,berazategui,349000.0,5,3,213
+GBA Sur,berazategui,425000.0,5,3,188
+GBA Sur,berazategui,520000.0,1,2,215
+GBA Sur,berazategui,290000.0,4,2,137
+GBA Sur,berazategui,745000.0,5,3,400
+GBA Sur,berazategui,85000.0,3,2,96
+GBA Sur,berazategui,550000.0,3,2,172
+GBA Sur,berazategui,330000.0,4,2,140
+GBA Sur,berazategui,245000.0,4,2,141
+GBA Sur,berazategui,650000.0,10,3,287
+GBA Sur,berazategui,415000.0,4,2,608
+GBA Sur,berazategui,235000.0,5,2,174
+GBA Sur,berazategui,130000.0,4,2,182
+GBA Sur,berazategui,225000.0,4,2,140
+GBA Sur,berazategui,660000.0,4,3,239
+GBA Sur,berazategui,340000.0,5,3,219
+GBA Sur,berazategui,110000.0,3,2,80
+GBA Sur,berazategui,346000.0,6,2,205
+GBA Sur,berazategui,850000.0,5,4,292
+GBA Sur,berazategui,595000.0,5,4,266
+GBA Sur,berazategui,780000.0,6,3,355
+GBA Sur,berazategui,585000.0,5,2,342
+GBA Sur,berazategui,350000.0,5,2,155
+GBA Sur,berazategui,990000.0,6,3,467
+GBA Sur,berazategui,850000.0,5,3,454
+GBA Sur,berazategui,395000.0,5,2,227
+GBA Sur,berazategui,850000.0,4,3,375
+GBA Sur,berazategui,460000.0,6,2,285
+GBA Sur,berazategui,119000.0,5,2,185
+GBA Sur,berazategui,320000.0,4,2,190
+GBA Sur,berazategui,490000.0,8,4,257
+GBA Sur,berazategui,750000.0,6,4,386
+GBA Sur,berazategui,570000.0,4,2,276
+GBA Sur,berazategui,75000.0,3,1,65
+GBA Sur,berazategui,490000.0,4,3,237
+GBA Sur,berazategui,320000.0,4,2,190
+GBA Sur,berazategui,495000.0,9,3,234
+GBA Sur,berazategui,76000.0,3,2,140
+GBA Sur,berazategui,410000.0,5,2,236
+GBA Sur,berazategui,550000.0,4,3,228
+GBA Sur,lanus,70000.0,2,1,100
+GBA Sur,lanus,175000.0,5,2,196
+GBA Sur,lanus,49000.0,4,2,90
+GBA Sur,lanus,144900.0,5,2,148
+GBA Sur,lanus,230000.0,4,2,132
+GBA Sur,lanus,135000.0,5,2,150
+GBA Sur,lanus,199000.0,4,1,262
+GBA Sur,lanus,138000.0,3,1,201
+GBA Sur,lanus,69000.0,4,2,174
+GBA Sur,lanus,249000.0,6,3,220
+GBA Sur,lanus,58500.0,4,1,82
+GBA Sur,lanus,240000.0,5,2,200
+GBA Sur,lanus,250000.0,5,3,255
+GBA Sur,lanus,114990.0,6,3,150
+GBA Sur,lanus,115000.0,4,3,180
+GBA Sur,lanus,135000.0,5,2,128
+GBA Sur,lanus,120000.0,6,1,105
+GBA Sur,lanus,139900.0,3,1,68
+GBA Sur,lanus,99900.0,3,1,90
+GBA Sur,lanus,110000.0,3,1,155
+GBA Sur,lanus,82000.0,3,1,71
+GBA Sur,lanus,89900.0,4,2,149
+GBA Sur,lanus,75000.0,5,2,100
+GBA Sur,lanus,130000.0,4,1,92
+GBA Sur,lanus,45000.0,3,1,75
+GBA Sur,lanus,295000.0,4,3,353
+GBA Sur,lanus,89000.0,3,1,85
+GBA Sur,lanus,350000.0,5,4,235
+GBA Sur,lanus,380000.0,5,2,315
+GBA Sur,lanus,142000.0,4,2,145
+GBA Sur,lanus,82000.0,7,2,165
+GBA Sur,lanus,330000.0,4,2,200
+GBA Sur,lanus,92000.0,3,2,153
+GBA Sur,lanus,260000.0,4,2,230
+GBA Sur,lanus,250000.0,6,2,290
+GBA Sur,lanus,75000.0,4,2,99
+GBA Sur,lanus,120000.0,7,4,222
+GBA Sur,lanus,180000.0,4,2,97
+GBA Sur,lanus,65000.0,6,2,90
+GBA Sur,lanus,169000.0,5,2,162
+GBA Sur,lanus,199000.0,4,3,166
+GBA Sur,lanus,119990.0,6,2,154
+GBA Sur,lanus,91000.0,6,3,228
+GBA Sur,lanus,75000.0,3,1,160
+GBA Sur,lanus,80000.0,3,1,89
+GBA Sur,lanus,95000.0,3,2,183
+GBA Sur,lanus,70000.0,4,1,92
+GBA Sur,lanus,80000.0,4,2,140
+GBA Sur,lanus,77000.0,3,1,70
+GBA Sur,almirante-brown,174900.0,5,3,126
+GBA Sur,almirante-brown,48000.0,4,1,89
+GBA Sur,almirante-brown,115000.0,3,1,100
+GBA Sur,almirante-brown,84892.0,5,2,220
+GBA Sur,almirante-brown,980000.0,4,3,719
+GBA Sur,almirante-brown,99000.0,5,2,120
+GBA Sur,almirante-brown,495000.0,5,2,238
+GBA Sur,almirante-brown,197000.0,5,2,135
+GBA Sur,almirante-brown,187000.0,4,2,120
+GBA Sur,almirante-brown,175000.0,5,2,142
+GBA Sur,almirante-brown,320000.0,5,2,150
+GBA Sur,almirante-brown,275000.0,5,2,218
+GBA Sur,almirante-brown,225000.0,4,2,147
+GBA Sur,almirante-brown,290000.0,4,3,221
+GBA Sur,almirante-brown,135000.0,3,2,120
+GBA Sur,almirante-brown,850000.0,7,4,401
+GBA Sur,almirante-brown,675000.0,5,3,365
+GBA Sur,almirante-brown,500000.0,4,2,230
+GBA Sur,almirante-brown,290000.0,5,3,190
+GBA Sur,almirante-brown,118000.0,4,2,115
+GBA Sur,almirante-brown,115000.0,5,2,132
+GBA Sur,almirante-brown,185000.0,4,2,128
+GBA Sur,almirante-brown,120000.0,4,2,157
+GBA Sur,almirante-brown,590000.0,6,5,326
+GBA Sur,almirante-brown,170000.0,5,2,135
+GBA Sur,almirante-brown,220000.0,4,3,220
+GBA Sur,almirante-brown,79999.0,4,1,104
+GBA Sur,almirante-brown,220000.0,4,1,93
+GBA Sur,almirante-brown,73000.0,3,1,80
+GBA Sur,almirante-brown,119000.0,4,1,106
+GBA Sur,almirante-brown,155000.0,4,2,180
+GBA Sur,almirante-brown,55000.0,3,1,72
+GBA Sur,almirante-brown,299000.0,7,3,300
+GBA Sur,almirante-brown,45000.0,3,1,120
+GBA Sur,almirante-brown,210000.0,4,2,110
+GBA Sur,almirante-brown,170000.0,5,2,127
+GBA Sur,almirante-brown,207000.0,5,2,140
+GBA Sur,almirante-brown,258000.0,6,2,200
+GBA Sur,almirante-brown,300000.0,5,2,180
+GBA Sur,almirante-brown,495000.0,5,2,238
+GBA Sur,almirante-brown,350000.0,6,2,300
+GBA Sur,almirante-brown,490000.0,5,3,235
+GBA Sur,almirante-brown,193000.0,4,2,104
+GBA Sur,almirante-brown,580000.0,6,3,232
+GBA Sur,almirante-brown,218000.0,6,2,180
+GBA Sur,almirante-brown,270000.0,4,1,180
+GBA Sur,avellaneda,55000.0,3,2,110
+GBA Sur,avellaneda,67000.0,4,2,80
+GBA Sur,avellaneda,140000.0,4,3,190
+GBA Sur,avellaneda,180000.0,5,2,200
+GBA Sur,avellaneda,98000.0,5,2,130
+GBA Sur,avellaneda,73000.0,3,1,62
+GBA Sur,avellaneda,175000.0,4,3,215
+GBA Sur,avellaneda,115000.0,3,1,80
+GBA Sur,avellaneda,95000.0,2,1,75
+GBA Sur,avellaneda,250000.0,5,3,228
+GBA Sur,avellaneda,160000.0,3,2,133
+GBA Sur,avellaneda,85000.0,4,2,176
+GBA Sur,avellaneda,164000.0,6,4,207
+GBA Sur,avellaneda,250000.0,4,2,173
+GBA Sur,avellaneda,150000.0,5,2,196
+GBA Sur,avellaneda,225000.0,3,2,143
+GBA Sur,avellaneda,185000.0,5,3,230
+GBA Sur,avellaneda,63000.0,4,1,170
+GBA Sur,avellaneda,195000.0,5,1,198
+GBA Sur,avellaneda,165000.0,5,3,215
+GBA Sur,avellaneda,70000.0,4,1,90
+GBA Sur,avellaneda,155000.0,5,2,160
+GBA Sur,avellaneda,220000.0,6,4,277
+GBA Sur,avellaneda,165000.0,4,2,123
+GBA Sur,avellaneda,75000.0,4,1,77
+GBA Sur,avellaneda,66000.0,6,2,103
+GBA Sur,avellaneda,78000.0,3,1,104
+GBA Sur,avellaneda,270000.0,5,3,211
+GBA Sur,avellaneda,100000.0,3,1,95
+GBA Sur,avellaneda,52000.0,2,1,121
+GBA Sur,avellaneda,60000.0,4,1,100
+GBA Sur,avellaneda,72000.0,4,1,91
+GBA Sur,avellaneda,110000.0,3,2,85
+GBA Sur,avellaneda,75000.0,3,1,97
+GBA Sur,avellaneda,169000.0,6,2,133
+GBA Sur,avellaneda,75000.0,3,1,76
+GBA Sur,avellaneda,89900.0,5,2,147
+GBA Sur,avellaneda,130000.0,4,2,180
+GBA Sur,avellaneda,490000.0,5,2,43
+GBA Sur,avellaneda,122000.0,4,2,183
+GBA Sur,avellaneda,220000.0,4,2,150
+GBA Sur,avellaneda,349000.0,5,3,522
+GBA Sur,avellaneda,260000.0,4,2,185
+GBA Sur,avellaneda,149000.0,7,3,280
+GBA Sur,avellaneda,140000.0,3,2,137
+GBA Sur,avellaneda,85000.0,4,2,127
+GBA Sur,avellaneda,180000.0,4,4,200
+GBA Sur,avellaneda,150000.0,5,2,162
+GBA Sur,avellaneda,190000.0,4,2,155
+GBA Sur,avellaneda,310000.0,6,3,260
+Córdoba,cordoba,197000.0,2,2,139
+Córdoba,cordoba,165000.0,8,2,180
+Córdoba,cordoba,90000.0,3,2,180
+Córdoba,cordoba,144000.0,7,2,135
+Córdoba,cordoba,34000.0,6,1,132
+Córdoba,cordoba,150000.0,5,2,149
+Córdoba,cordoba,930000.0,9,4,450
+Córdoba,cordoba,189999.0,3,3,127
+Córdoba,cordoba,119000.0,3,3,140
+Córdoba,cordoba,110000.0,6,2,180
+Córdoba,cordoba,130000.0,3,1,101
+Córdoba,cordoba,168000.0,5,2,136
+Córdoba,cordoba,125000.0,3,3,110
+Córdoba,cordoba,105000.0,7,1,141
+Córdoba,cordoba,880000.0,6,3,622
+Córdoba,cordoba,110000.0,6,2,160
+Córdoba,cordoba,220000.0,5,3,249
+Córdoba,cordoba,189000.0,5,1,157
+Córdoba,cordoba,300000.0,5,3,175
+Córdoba,cordoba,310000.0,3,2,165
+Córdoba,cordoba,105000.0,6,3,178
+Córdoba,cordoba,850000.0,7,3,350
+Córdoba,cordoba,150000.0,9,3,101
+Córdoba,cordoba,270000.0,6,3,180
+Córdoba,cordoba,215000.0,3,2,242
+Córdoba,cordoba,480000.0,10,4,650
+Córdoba,cordoba,89000.0,3,2,77
+Córdoba,cordoba,260000.0,5,2,180
+Córdoba,cordoba,133000.0,5,3,110
+Córdoba,cordoba,340000.0,4,2,194
+Córdoba,cordoba,150000.0,5,1,135
+Córdoba,cordoba,169000.0,4,3,140
+Córdoba,cordoba,339000.0,8,3,165
+Córdoba,cordoba,165000.0,4,1,106
+Córdoba,cordoba,173900.0,6,3,135
+Córdoba,cordoba,700000.0,7,3,420
+Córdoba,cordoba,145000.0,4,2,120
+Córdoba,cordoba,120000.0,7,1,116
+Córdoba,cordoba,240000.0,7,2,150
+Córdoba,cordoba,125000.0,6,2,132
+Córdoba,cordoba,670000.0,4,4,356
+Córdoba,cordoba,230000.0,8,4,300
+Córdoba,cordoba,230000.0,5,2,188
+Córdoba,cordoba,67000.0,4,2,105
+Córdoba,cordoba,275000.0,5,2,211
+Córdoba,cordoba,249000.0,4,4,277
+Córdoba,cordoba,235000.0,3,3,284
+Córdoba,punilla,61900.0,5,2,120
+Córdoba,punilla,189000.0,4,2,200
+Córdoba,punilla,160000.0,3,3,380
+Córdoba,punilla,90000.0,7,2,146
+Córdoba,punilla,46500.0,4,1,118
+Córdoba,punilla,200000.0,7,2,170
+Córdoba,punilla,180000.0,7,2,238
+Córdoba,punilla,150000.0,5,2,180
+Córdoba,punilla,275000.0,5,1,285
+Córdoba,punilla,72900.0,4,1,68
+Córdoba,punilla,255000.0,4,2,150
+Córdoba,punilla,134000.0,4,2,108
+Córdoba,punilla,163000.0,4,2,158
+Córdoba,punilla,80000.0,3,2,120
+Córdoba,punilla,105000.0,6,3,324
+Córdoba,punilla,97000.0,6,2,124
+Córdoba,punilla,198000.0,3,1,130
+Córdoba,punilla,225000.0,6,3,289
+Córdoba,punilla,378000.0,6,3,681
+Córdoba,punilla,49900.0,6,2,130
+Córdoba,punilla,225000.0,6,3,289
+Córdoba,punilla,73500.0,3,1,80
+Córdoba,punilla,125000.0,4,1,120
+Córdoba,punilla,120000.0,3,2,140
+Córdoba,punilla,88000.0,3,1,103
+Córdoba,punilla,134900.0,6,2,210
+Córdoba,punilla,74500.0,3,1,50
+Córdoba,punilla,135000.0,3,2,83
+Córdoba,punilla,284000.0,9,3,222
+Córdoba,punilla,135000.0,5,1,145
+Córdoba,punilla,67000.0,2,1,55
+Córdoba,punilla,63500.0,2,2,73
+Córdoba,punilla,75000.0,3,1,116
+Córdoba,punilla,92000.0,3,2,116
+Córdoba,punilla,187000.0,5,3,180
+Córdoba,punilla,59999.0,8,1,155
+Córdoba,punilla,69500.0,5,1,140
+Córdoba,punilla,64998.99999999999,3,1,687
+Córdoba,punilla,109000.0,4,1,120
+Córdoba,punilla,215000.0,6,2,163
+Córdoba,punilla,27999.0,2,1,103
+Córdoba,punilla,250000.0,5,4,173
+Córdoba,punilla,159800.0,9,4,225
+Córdoba,punilla,128000.0,8,2,173
+Córdoba,colon,65000.0,2,1,99
+Córdoba,colon,120000.0,7,2,173
+Córdoba,colon,158000.0,4,1,200
+Córdoba,colon,800000.0,8,4,680
+Córdoba,colon,124000.0,3,1,120
+Córdoba,colon,320000.0,8,3,260
+Córdoba,colon,649000.0,4,4,500
+Córdoba,colon,160000.0,6,2,142
+Córdoba,colon,490000.0,8,3,135
+Córdoba,colon,480000.0,5,2,351
+Córdoba,colon,460000.0,6,2,260
+Córdoba,colon,350000.0,7,3,170
+Córdoba,colon,150000.0,6,3,208
+Córdoba,colon,90000.0,3,2,110
+Córdoba,colon,172000.0,6,2,159
+Córdoba,colon,450000.0,6,3,300
+Córdoba,colon,340000.0,4,2,270
+Córdoba,colon,291000.0,6,2,410
+Córdoba,colon,450000.0,3,3,480
+Córdoba,colon,150000.0,5,2,142
+Córdoba,colon,380000.0,5,2,250
+Córdoba,colon,360000.0,6,3,362
+Córdoba,colon,460000.0,5,2,420
+Córdoba,colon,180000.0,8,3,220
+Córdoba,colon,175000.0,3,2,175
+Córdoba,colon,160000.0,2,3,199
+Córdoba,colon,250000.0,8,2,143
+Córdoba,colon,175000.0,8,3,300
+Córdoba,colon,300000.0,8,3,270
+Córdoba,colon,140000.0,5,2,220
+Córdoba,colon,120000.0,5,1,90
+Córdoba,colon,110000.0,8,2,200
+Córdoba,colon,170000.0,5,2,149
+Córdoba,colon,320000.0,8,3,420
+Córdoba,colon,120000.0,6,2,220
+Córdoba,colon,120000.0,6,2,220
+Córdoba,colon,79000.0,4,2,146
+Córdoba,colon,160000.0,9,2,140
+Córdoba,colon,150000.0,10,2,200
+Córdoba,colon,160000.0,3,2,150
+Córdoba,colon,145000.0,10,3,210
+Córdoba,colon,320000.0,7,3,203
+Córdoba,colon,29990.0,3,1,121
+Córdoba,colon,55000.0,4,1,87
+Córdoba,villa-carlos-paz,174000.0,4,2,155
+Córdoba,villa-carlos-paz,160000.0,5,2,190
+Córdoba,villa-carlos-paz,115000.0,4,2,115
+Córdoba,villa-carlos-paz,114900.0,6,2,176
+Córdoba,villa-carlos-paz,150000.0,4,2,190
+Córdoba,villa-carlos-paz,240000.0,7,6,389
+Córdoba,villa-carlos-paz,350000.0,8,3,309
+Córdoba,villa-carlos-paz,160000.0,7,2,175
+Córdoba,villa-carlos-paz,225000.0,6,2,167
+Córdoba,villa-carlos-paz,295000.0,4,3,379
+Córdoba,villa-carlos-paz,135000.0,4,1,143
+Córdoba,villa-carlos-paz,300000.0,6,3,264
+Córdoba,villa-carlos-paz,120000.0,3,2,150
+Córdoba,villa-carlos-paz,138000.0,6,2,130
+Córdoba,villa-carlos-paz,130000.0,5,2,95
+Córdoba,villa-carlos-paz,188000.0,6,3,185
+Córdoba,villa-carlos-paz,165000.0,4,2,171
+Córdoba,villa-carlos-paz,255000.0,7,2,220
+Córdoba,villa-carlos-paz,275000.0,6,3,299
+Córdoba,villa-carlos-paz,264000.0,3,2,255
+Córdoba,villa-carlos-paz,170000.0,6,3,180
+Córdoba,villa-carlos-paz,135000.0,4,1,163
+Córdoba,villa-carlos-paz,140000.0,6,3,254
+Córdoba,villa-carlos-paz,210000.0,6,3,187
+Córdoba,villa-carlos-paz,250000.0,3,3,231
+Córdoba,villa-carlos-paz,158000.0,4,1,138
+Córdoba,villa-carlos-paz,89000.0,4,2,98
+Córdoba,villa-carlos-paz,123000.0,3,1,110
+Córdoba,villa-carlos-paz,230000.0,2,3,240
+Córdoba,villa-carlos-paz,95000.0,3,1,110
+Córdoba,villa-carlos-paz,72000.0,4,1,70
+Córdoba,villa-carlos-paz,80000.0,3,1,70
+Córdoba,villa-carlos-paz,130000.0,5,2,170
+Córdoba,villa-carlos-paz,136000.0,3,2,146
+Córdoba,villa-carlos-paz,245000.0,8,4,300
+Córdoba,villa-carlos-paz,135000.0,6,2,110
+Córdoba,villa-carlos-paz,82000.0,5,2,90
+Córdoba,villa-carlos-paz,350000.0,8,3,350
+Córdoba,villa-carlos-paz,224900.0,7,3,231
+Córdoba,villa-carlos-paz,149000.0,5,2,154
+Córdoba,villa-carlos-paz,950000.0,10,6,590
+Córdoba,villa-carlos-paz,299800.0,7,3,190
+Córdoba,villa-carlos-paz,190000.0,6,2,174
+Córdoba,villa-carlos-paz,399000.0,7,4,291
+Córdoba,villa-carlos-paz,80000.0,5,1,112
+Córdoba,villa-carlos-paz,155000.0,5,2,182
+Córdoba,santa-maria,45000.0,3,2,80
+Córdoba,santa-maria,285000.0,4,2,175
+Córdoba,santa-maria,135000.0,5,2,120
+Córdoba,santa-maria,185000.0,3,3,150
+Córdoba,santa-maria,370000.0,7,3,310
+Córdoba,santa-maria,280000.0,6,4,220
+Córdoba,santa-maria,220000.0,9,3,308
+Córdoba,santa-maria,393000.0,5,3,315
+Córdoba,santa-maria,275000.0,5,2,185
+Córdoba,santa-maria,260000.0,6,2,230
+Córdoba,santa-maria,285000.0,4,3,178
+Córdoba,santa-maria,315000.0,6,2,320
+Córdoba,santa-maria,360000.0,5,2,370
+Córdoba,santa-maria,325000.0,3,2,255
+Córdoba,santa-maria,600000.0,7,3,500
+Córdoba,santa-maria,171000.0,3,2,135
+Córdoba,santa-maria,422000.0,4,2,200
+Córdoba,santa-maria,290000.0,4,3,218
+Córdoba,santa-maria,118000.0,4,2,120
+Córdoba,santa-maria,280000.0,6,4,220
+Córdoba,santa-maria,280000.0,6,4,220
+Córdoba,santa-maria,590000.0,8,4,440
+Córdoba,santa-maria,355000.0,9,3,258
+Córdoba,santa-maria,790000.0,4,2,300
+Córdoba,santa-maria,219000.0,8,3,202
+Córdoba,santa-maria,155000.0,7,3,255
+Córdoba,santa-maria,280000.0,5,2,188
+Córdoba,santa-maria,285000.0,5,2,179
+Córdoba,santa-maria,275000.0,5,2,190
+Córdoba,santa-maria,280000.0,7,2,285
+Córdoba,santa-maria,380000.0,5,4,344
+Córdoba,santa-maria,195000.0,4,3,140
+Córdoba,santa-maria,125000.0,4,1,193
+Córdoba,santa-maria,240000.0,5,3,130
+Córdoba,santa-maria,198000.0,8,2,113
+Córdoba,santa-maria,240000.0,5,3,130
+Córdoba,santa-maria,215000.0,5,2,148
+Córdoba,santa-maria,280000.0,5,3,211
+Córdoba,santa-maria,220000.0,4,2,126
+Córdoba,santa-maria,475000.0,6,3,296
+Córdoba,santa-maria,290000.0,3,2,300
+Córdoba,santa-maria,215000.0,4,2,163
+Córdoba,santa-maria,210000.0,5,3,200
+Córdoba,santa-maria,105000.0,4,1,115
+Córdoba,santa-maria,310000.0,5,2,210
+Costa Atlántica,mar-del-plata,42000.0,3,1,85
+Costa Atlántica,mar-del-plata,139000.0,2,2,82
+Costa Atlántica,mar-del-plata,195000.0,4,2,217
+Costa Atlántica,mar-del-plata,78900.0,3,2,56
+Costa Atlántica,mar-del-plata,205000.0,5,3,156
+Costa Atlántica,mar-del-plata,100000.0,4,2,158
+Costa Atlántica,mar-del-plata,98000.0,5,2,135
+Costa Atlántica,mar-del-plata,280000.0,4,2,160
+Costa Atlántica,mar-del-plata,180000.0,3,1,106
+Costa Atlántica,mar-del-plata,200000.0,5,2,455
+Costa Atlántica,mar-del-plata,350000.0,3,3,98
+Costa Atlántica,mar-del-plata,245000.0,4,2,158
+Costa Atlántica,mar-del-plata,190000.0,6,4,157
+Costa Atlántica,mar-del-plata,289900.0,5,3,248
+Costa Atlántica,mar-del-plata,420000.0,5,4,280
+Costa Atlántica,mar-del-plata,495000.0,5,4,289
+Costa Atlántica,mar-del-plata,295000.0,3,2,170
+Costa Atlántica,mar-del-plata,340000.0,5,3,217
+Costa Atlántica,mar-del-plata,270000.0,3,3,300
+Costa Atlántica,mar-del-plata,495000.0,5,4,289
+Costa Atlántica,mar-del-plata,217000.0,5,2,213
+Costa Atlántica,mar-del-plata,210000.0,5,3,185
+Costa Atlántica,mar-del-plata,420000.0,5,4,250
+Costa Atlántica,mar-del-plata,440000.0,4,1,183
+Costa Atlántica,mar-del-plata,480000.0,8,6,408
+Costa Atlántica,mar-del-plata,595000.0,6,3,376
+Costa Atlántica,mar-del-plata,349000.0,4,3,262
+Costa Atlántica,mar-del-plata,155000.0,4,3,130
+Costa Atlántica,mar-del-plata,359900.0,4,2,180
+Costa Atlántica,mar-del-plata,95000.0,3,2,103
+Costa Atlántica,mar-del-plata,350000.0,5,3,252
+Costa Atlántica,mar-del-plata,300000.0,4,3,180
+Costa Atlántica,mar-del-plata,490000.0,6,3,293
+Costa Atlántica,mar-del-plata,94900.0,3,1,118
+Costa Atlántica,mar-del-plata,800000.0,6,4,300
+Costa Atlántica,mar-del-plata,49000.0,3,1,158
+Costa Atlántica,mar-del-plata,470000.0,4,3,200
+Costa Atlántica,mar-del-plata,420000.0,4,3,180
+Costa Atlántica,mar-del-plata,235000.0,5,3,290
+Costa Atlántica,mar-del-plata,289000.0,4,3,175
+Costa Atlántica,mar-del-plata,319900.0,4,3,184
+Costa Atlántica,mar-del-plata,590000.0,6,4,376
+Costa Atlántica,mar-del-plata,770000.0,6,4,710
+Costa Atlántica,mar-del-plata,235000.0,5,3,290
+Costa Atlántica,mar-del-plata,185000.0,4,1,150
+Costa Atlántica,mar-del-plata,135000.0,5,2,140
+Costa Atlántica,mar-del-plata,380000.0,4,2,185
+Costa Atlántica,costa-esmeralda,50000.0,5,4,200
+Costa Atlántica,costa-esmeralda,350000.0,5,3,170
+Costa Atlántica,costa-esmeralda,210000.0,4,3,200
+Costa Atlántica,costa-esmeralda,660000.0,8,5,268
+Costa Atlántica,costa-esmeralda,210000.0,6,3,185
+Costa Atlántica,costa-esmeralda,225000.0,5,3,180
+Costa Atlántica,costa-esmeralda,284000.0,3,2,152
+Costa Atlántica,costa-esmeralda,199000.0,4,2,148
+Costa Atlántica,costa-esmeralda,550000.0,5,3,220
+Costa Atlántica,costa-esmeralda,195000.0,4,2,140
+Costa Atlántica,costa-esmeralda,400000.0,5,3,170
+Costa Atlántica,costa-esmeralda,170000.0,1,6,50
+Costa Atlántica,costa-esmeralda,170000.0,1,6,50
+Costa Atlántica,costa-esmeralda,380000.0,8,2,220
+Costa Atlántica,costa-esmeralda,265000.0,4,2,122
+Costa Atlántica,costa-esmeralda,360000.0,5,4,200
+Costa Atlántica,costa-esmeralda,700000.0,5,4,153
+Costa Atlántica,costa-esmeralda,195000.0,3,2,120
+Costa Atlántica,costa-esmeralda,380000.0,5,4,186
+Costa Atlántica,costa-esmeralda,250000.0,4,2,140
+Costa Atlántica,costa-esmeralda,520000.0,7,4,700
+Costa Atlántica,costa-esmeralda,196000.0,5,3,160
+Costa Atlántica,costa-esmeralda,225000.0,4,2,130
+Costa Atlántica,costa-esmeralda,195000.0,5,2,144
+Costa Atlántica,costa-esmeralda,265000.0,4,2,135
+Costa Atlántica,costa-esmeralda,850000.0,7,6,500
+Costa Atlántica,costa-esmeralda,360000.0,4,2,138
+Costa Atlántica,costa-esmeralda,320000.0,5,4,147
+Costa Atlántica,costa-esmeralda,340000.0,4,2,190
+Costa Atlántica,costa-esmeralda,350000.0,5,3,180
+Costa Atlántica,costa-esmeralda,320000.0,5,3,170
+Costa Atlántica,costa-esmeralda,720000.0,6,5,260
+Costa Atlántica,costa-esmeralda,630000.0,6,4,256
+Costa Atlántica,costa-esmeralda,380000.0,6,3,300
+Costa Atlántica,costa-esmeralda,380000.0,6,4,230
+Costa Atlántica,costa-esmeralda,235000.0,5,2,180
+Costa Atlántica,costa-esmeralda,565000.0,5,4,217
+Costa Atlántica,costa-esmeralda,260000.0,5,3,150
+Costa Atlántica,costa-esmeralda,580000.0,5,4,288
+Costa Atlántica,costa-esmeralda,320000.0,5,3,193
+Costa Atlántica,costa-esmeralda,470000.0,6,5,290
+Costa Atlántica,costa-esmeralda,269000.0,5,2,221
+Costa Atlántica,costa-esmeralda,360000.0,4,3,250
+Costa Atlántica,costa-esmeralda,340000.0,5,3,180
+Costa Atlántica,costa-esmeralda,255000.0,4,2,140
+Costa Atlántica,costa-esmeralda,375000.0,5,3,209
+Costa Atlántica,costa-esmeralda,350000.0,4,3,160
+Costa Atlántica,costa-esmeralda,260000.0,4,2,131
+Costa Atlántica,costa-esmeralda,470000.0,5,3,208
+Costa Atlántica,pinamar,279000.0,5,3,200
+Costa Atlántica,pinamar,195000.0,5,2,100
+Costa Atlántica,pinamar,390000.0,5,4,220
+Costa Atlántica,pinamar,550000.0,5,3,330
+Costa Atlántica,pinamar,240000.0,3,2,87
+Costa Atlántica,pinamar,310000.0,5,3,180
+Costa Atlántica,pinamar,268000.0,4,2,114
+Costa Atlántica,pinamar,230000.0,5,2,204
+Costa Atlántica,pinamar,174000.0,4,2,139
+Costa Atlántica,pinamar,225000.0,3,1,74
+Costa Atlántica,pinamar,168000.0,5,3,220
+Costa Atlántica,pinamar,120000.0,4,2,188
+Costa Atlántica,pinamar,490000.0,6,5,430
+Costa Atlántica,pinamar,480000.0,6,3,296
+Costa Atlántica,pinamar,950000.0,6,4,300
+Costa Atlántica,pinamar,395000.0,4,3,160
+Costa Atlántica,pinamar,295000.0,5,3,188
+Costa Atlántica,pinamar,385000.0,4,2,160
+Costa Atlántica,pinamar,470000.0,4,4,260
+Costa Atlántica,pinamar,280000.0,4,2,122
+Costa Atlántica,pinamar,285000.0,8,4,293
+Costa Atlántica,pinamar,199000.0,4,2,168
+Costa Atlántica,pinamar,365000.0,5,3,190
+Costa Atlántica,pinamar,420000.0,4,2,210
+Costa Atlántica,pinamar,850000.0,4,2,275
+Costa Atlántica,pinamar,276000.0,6,3,235
+Costa Atlántica,pinamar,790000.0,5,5,347
+Costa Atlántica,pinamar,264000.0,5,4,270
+Costa Atlántica,pinamar,204000.0,5,3,204
+Costa Atlántica,pinamar,239000.0,5,3,230
+Costa Atlántica,pinamar,199000.0,5,2,215
+Costa Atlántica,pinamar,120000.0,4,2,53
+Costa Atlántica,pinamar,429000.0,5,3,230
+Costa Atlántica,pinamar,420000.0,4,2,210
+Costa Atlántica,pinamar,295000.0,4,3,168
+Costa Atlántica,pinamar,420000.0,5,2,240
+Costa Atlántica,pinamar,500000.0,5,3,295
+Costa Atlántica,pinamar,460000.0,8,4,515
+Costa Atlántica,pinamar,490000.0,5,5,380
+Costa Atlántica,pinamar,399999.0,5,4,232
+Costa Atlántica,pinamar,205000.0,4,4,100
+Costa Atlántica,pinamar,470000.0,5,3,227
+Costa Atlántica,pinamar,269000.0,5,4,185
+Costa Atlántica,mar-del-tuyu,35000.0,3,2,65
+Costa Atlántica,mar-del-tuyu,39999.0,4,2,65
+Costa Atlántica,mar-del-tuyu,22000.0,3,1,50
+Costa Atlántica,mar-del-tuyu,28000.0,3,1,48
+Costa Atlántica,mar-del-tuyu,35000.0,3,1,50
+Costa Atlántica,mar-del-tuyu,33000.0,3,1,37
+Costa Atlántica,mar-del-tuyu,40000.0,3,2,66
+Costa Atlántica,mar-del-tuyu,32000.0,3,1,48
+Costa Atlántica,mar-del-tuyu,37000.0,3,2,35
+Costa Atlántica,mar-del-tuyu,40000.0,3,2,60
+Costa Atlántica,mar-del-tuyu,43000.0,3,1,45
+Costa Atlántica,mar-del-tuyu,38000.0,3,1,70
+Costa Atlántica,mar-del-tuyu,38000.0,3,1,70
+Costa Atlántica,mar-del-tuyu,75000.0,4,2,70
+Costa Atlántica,mar-del-tuyu,120000.0,5,3,170
+Costa Atlántica,mar-del-tuyu,32500.0,3,1,70
+Costa Atlántica,mar-del-tuyu,55000.0,4,2,90
+Costa Atlántica,mar-del-tuyu,59500.0,4,2,65
+Costa Atlántica,mar-del-tuyu,200000.0,5,2,55
+Costa Atlántica,mar-del-tuyu,30000.0,4,2,50
+Costa Atlántica,mar-del-tuyu,39000.0,4,2,55
+Costa Atlántica,mar-del-tuyu,43900.0,4,1,65
+Costa Atlántica,mar-del-tuyu,54000.0,3,1,60
+Costa Atlántica,mar-del-tuyu,35000.0,3,1,45
+Costa Atlántica,mar-del-tuyu,35000.0,3,1,50
+Costa Atlántica,mar-del-tuyu,43000.0,4,2,35
+Costa Atlántica,mar-del-tuyu,140000.0,4,2,138
+Costa Atlántica,mar-del-tuyu,31000.0,3,1,50
+Costa Atlántica,mar-del-tuyu,32000.0,3,1,70
+Costa Atlántica,mar-del-tuyu,36000.0,3,1,45
+Costa Atlántica,mar-del-tuyu,53000.0,5,3,45
+Costa Atlántica,mar-del-tuyu,40000.0,4,2,50
+Costa Atlántica,mar-del-tuyu,55000.0,3,1,71
+Costa Atlántica,mar-del-tuyu,98000.0,2,1,60
+Costa Atlántica,mar-del-tuyu,40000.0,3,2,42
+Costa Atlántica,mar-del-tuyu,35000.0,3,1,90
+Costa Atlántica,mar-del-tuyu,48000.0,3,1,110
+Costa Atlántica,mar-del-tuyu,74000.0,3,2,80
+Costa Atlántica,mar-del-tuyu,32000.0,4,1,50
+Costa Atlántica,mar-del-tuyu,37500.0,3,1,60
+Costa Atlántica,mar-del-tuyu,55000.0,4,2,45
+Costa Atlántica,mar-del-tuyu,57000.0,3,1,81
+Costa Atlántica,mar-del-tuyu,43000.0,4,2,50
+Costa Atlántica,mar-del-tuyu,39500.0,3,1,65
+Costa Atlántica,mar-del-tuyu,65000.0,5,2,60
+Costa Atlántica,mar-del-tuyu,38000.0,3,2,60
+Costa Atlántica,mar-del-tuyu,45000.0,3,2,60
+Costa Atlántica,mar-del-tuyu,55000.0,3,1,75
+Costa Atlántica,mar-del-tuyu,62000.0,3,1,50
+Costa Atlántica,villa-gesell,59000.0,4,2,70
+Costa Atlántica,villa-gesell,145000.0,5,2,118
+Costa Atlántica,villa-gesell,150000.0,4,2,140
+Costa Atlántica,villa-gesell,68000.0,4,1,70
+Costa Atlántica,villa-gesell,98000.0,4,2,97
+Costa Atlántica,villa-gesell,105000.0,3,1,72
+Costa Atlántica,villa-gesell,79000.0,3,2,124
+Costa Atlántica,villa-gesell,89000.0,7,2,138
+Costa Atlántica,villa-gesell,70000.0,3,1,65
+Costa Atlántica,villa-gesell,78000.0,3,2,81
+Costa Atlántica,villa-gesell,135000.0,7,2,140
+Costa Atlántica,villa-gesell,59500.0,4,1,61
+Costa Atlántica,villa-gesell,70000.0,4,1,84
+Costa Atlántica,villa-gesell,450000.0,6,3,450
+Costa Atlántica,villa-gesell,89900.0,4,2,70
+Costa Atlántica,villa-gesell,118000.0,4,2,104
+Costa Atlántica,villa-gesell,65000.0,3,1,86
+Costa Atlántica,villa-gesell,265000.0,5,3,168
+Costa Atlántica,villa-gesell,72000.0,3,1,65
+Costa Atlántica,villa-gesell,67000.0,3,1,70
+Costa Atlántica,villa-gesell,50000.0,3,1,60
+Costa Atlántica,villa-gesell,195000.0,3,2,185
+Costa Atlántica,villa-gesell,178900.0,4,2,112
+Costa Atlántica,villa-gesell,260000.0,4,2,178
+Costa Atlántica,villa-gesell,230000.0,4,2,190
+Costa Atlántica,villa-gesell,175000.0,6,2,150
+Costa Atlántica,villa-gesell,62000.0,3,1,67
+Costa Atlántica,villa-gesell,110000.0,3,2,87
+Costa Atlántica,villa-gesell,500000.0,3,2,390
+Costa Atlántica,villa-gesell,118000.0,4,2,215
+Costa Atlántica,villa-gesell,45000.0,5,2,106
+Costa Atlántica,villa-gesell,40000.0,4,2,70
+Costa Atlántica,villa-gesell,79000.0,4,2,91
+Costa Atlántica,villa-gesell,82000.0,3,3,80
+Costa Atlántica,villa-gesell,64998.99999999999,4,2,80
+Costa Atlántica,villa-gesell,175000.0,6,2,150
+Costa Atlántica,villa-gesell,155000.0,5,2,164
+Costa Atlántica,villa-gesell,120000.0,5,4,100
+Costa Atlántica,villa-gesell,55000.0,4,1,50
+Costa Atlántica,villa-gesell,75000.0,3,1,48
+Costa Atlántica,villa-gesell,120000.0,3,1,78
+Costa Atlántica,villa-gesell,70000.0,6,3,141
+Costa Atlántica,villa-gesell,112000.0,3,2,91
+Costa Atlántica,villa-gesell,150000.0,3,1,112
+Costa Atlántica,villa-gesell,65000.0,3,1,54
+Costa Atlántica,villa-gesell,250000.0,7,4,152
+Costa Atlántica,mar-de-ajo,64000.0,3,2,82
+Costa Atlántica,mar-de-ajo,52000.0,3,2,70
+Costa Atlántica,mar-de-ajo,190000.0,3,1,300
+Costa Atlántica,mar-de-ajo,50000.0,4,2,300
+Costa Atlántica,mar-de-ajo,790000.0,4,3,420
+Costa Atlántica,mar-de-ajo,47000.0,3,1,100
+Costa Atlántica,mar-de-ajo,168000.0,8,3,270
+Costa Atlántica,mar-de-ajo,85000.0,2,2,150
+Costa Atlántica,mar-de-ajo,45000.0,3,1,50
+Costa Atlántica,mar-de-ajo,37000.0,2,1,50
+Costa Atlántica,mar-de-ajo,32000.0,1,1,34
+Costa Atlántica,mar-de-ajo,150000.0,4,3,140
+Costa Atlántica,mar-de-ajo,98500.0,4,2,80
+Costa Atlántica,mar-de-ajo,317000.0,8,4,210
+Costa Atlántica,mar-de-ajo,37000.0,2,1,37
+Costa Atlántica,mar-de-ajo,72000.0,2,2,60
+Costa Atlántica,mar-de-ajo,380000.0,5,4,386
+Costa Atlántica,mar-de-ajo,80000.0,6,3,160
+Costa Atlántica,mar-de-ajo,94000.0,3,1,68
+Costa Atlántica,mar-de-ajo,160000.0,4,2,161
+Costa Atlántica,mar-de-ajo,92000.0,4,2,100
+Costa Atlántica,mar-de-ajo,98000.0,4,2,78
+Costa Atlántica,mar-de-ajo,45000.0,3,2,49
+Costa Atlántica,mar-de-ajo,99000.0,5,3,200
+Costa Atlántica,mar-de-ajo,65000.0,3,2,80
+Costa Atlántica,mar-de-ajo,99000.0,3,1,50
+Costa Atlántica,mar-de-ajo,89000.0,4,1,150
+Costa Atlántica,mar-de-ajo,65000.0,4,2,50
+Costa Atlántica,mar-de-ajo,37000.0,3,1,69
+Costa Atlántica,mar-de-ajo,43000.0,3,2,60
+Costa Atlántica,mar-de-ajo,80000.0,4,2,52
+Costa Atlántica,mar-de-ajo,121500.0,4,2,90
+Costa Atlántica,mar-de-ajo,294000.0,8,4,210
+Costa Atlántica,mar-de-ajo,23000.0,2,2,40
+Costa Atlántica,mar-de-ajo,35000.0,3,1,50
+Costa Atlántica,mar-de-ajo,90000.0,3,1,130
+Costa Atlántica,mar-de-ajo,79000.0,5,2,90
+Costa Atlántica,mar-de-ajo,75000.0,3,2,90
+Costa Atlántica,mar-de-ajo,140000.0,4,2,150
+Costa Atlántica,mar-de-ajo,41500.0,3,1,36
+Costa Atlántica,mar-de-ajo,77000.0,5,2,110
+Costa Atlántica,mar-de-ajo,145000.0,4,3,106
+Costa Atlántica,mar-de-ajo,68000.0,5,2,70
+Costa Atlántica,mar-de-ajo,175000.0,3,3,106
+Costa Atlántica,mar-de-ajo,70000.0,2,3,50
+Costa Atlántica,mar-de-ajo,104000.0,3,2,136
+Costa Atlántica,mar-de-ajo,230000.0,4,2,125
+Costa Atlántica,mar-de-ajo,110000.0,6,4,390
+Costa Atlántica,mar-de-ajo,90000.0,6,2,130
+Costa Atlántica,mar-de-ajo,310000.0,5,3,254
+Buenos Aires Interior,lujan,90000.0,3,1,112
+Buenos Aires Interior,lujan,205000.0,6,5,300
+Buenos Aires Interior,lujan,260000.0,5,2,271
+Buenos Aires Interior,lujan,197000.0,4,2,180
+Buenos Aires Interior,lujan,235000.0,5,3,190
+Buenos Aires Interior,lujan,315000.0,5,3,212
+Buenos Aires Interior,lujan,320000.0,5,3,206
+Buenos Aires Interior,lujan,315000.0,7,3,170
+Buenos Aires Interior,lujan,340000.0,4,2,166
+Buenos Aires Interior,lujan,75000.0,2,1,48
+Buenos Aires Interior,lujan,460000.0,7,4,410
+Buenos Aires Interior,lujan,199000.0,5,4,176
+Buenos Aires Interior,lujan,65000.0,4,1,73
+Buenos Aires Interior,lujan,160000.0,4,2,210
+Buenos Aires Interior,lujan,255000.0,5,2,300
+Buenos Aires Interior,lujan,115000.0,4,3,170
+Buenos Aires Interior,lujan,175000.0,4,3,900
+Buenos Aires Interior,lujan,85000.0,5,3,166
+Buenos Aires Interior,lujan,249000.0,5,3,200
+Buenos Aires Interior,lujan,650000.0,7,5,500
+Buenos Aires Interior,lujan,205000.0,5,2,143
+Buenos Aires Interior,lujan,175000.0,4,2,164
+Buenos Aires Interior,lujan,240000.0,4,2,154
+Buenos Aires Interior,lujan,235000.0,5,4,181
+Buenos Aires Interior,lujan,550000.0,5,2,277
+Buenos Aires Interior,lujan,279000.0,8,5,309
+Buenos Aires Interior,lujan,295000.0,5,3,185
+Buenos Aires Interior,lujan,148000.0,5,2,140
+Buenos Aires Interior,lujan,345000.0,5,4,302
+Buenos Aires Interior,lujan,350000.0,7,4,230
+Buenos Aires Interior,lujan,350000.0,5,3,257
+Buenos Aires Interior,lujan,240000.0,4,2,168
+Buenos Aires Interior,lujan,229000.0,4,2,154
+Buenos Aires Interior,lujan,310000.0,6,3,400
+Buenos Aires Interior,lujan,390000.0,6,4,282
+Buenos Aires Interior,lujan,225000.0,4,2,158
+Buenos Aires Interior,lujan,430000.0,5,2,250
+Buenos Aires Interior,lujan,285000.0,8,3,235
+Buenos Aires Interior,lujan,250000.0,3,3,160
+Buenos Aires Interior,lujan,290000.0,5,3,134
+Buenos Aires Interior,lujan,295000.0,4,2,185
+Buenos Aires Interior,lujan,690000.0,6,4,460
+Buenos Aires Interior,lujan,270000.0,10,2,218
+Buenos Aires Interior,lujan,245000.0,4,3,162
+Buenos Aires Interior,lujan,350000.0,6,2,257
+Buenos Aires Interior,san-vicente,890000.0,4,4,400
+Buenos Aires Interior,san-vicente,420000.0,5,4,270
+Buenos Aires Interior,san-vicente,180000.0,4,2,124
+Buenos Aires Interior,san-vicente,750000.0,6,4,460
+Buenos Aires Interior,san-vicente,250000.0,5,2,177
+Buenos Aires Interior,san-vicente,230000.0,4,3,211
+Buenos Aires Interior,san-vicente,489000.0,5,3,375
+Buenos Aires Interior,san-vicente,222900.0,4,3,170
+Buenos Aires Interior,san-vicente,300000.0,5,4,180
+Buenos Aires Interior,san-vicente,229000.0,4,3,195
+Buenos Aires Interior,san-vicente,349000.0,5,4,230
+Buenos Aires Interior,san-vicente,490000.0,5,4,335
+Buenos Aires Interior,san-vicente,450000.0,7,2,335
+Buenos Aires Interior,san-vicente,545000.0,5,4,457
+Buenos Aires Interior,san-vicente,217900.0,4,3,171
+Buenos Aires Interior,san-vicente,435000.0,5,3,290
+Buenos Aires Interior,san-vicente,465000.0,6,3,214
+Buenos Aires Interior,san-vicente,300000.0,5,4,180
+Buenos Aires Interior,san-vicente,320000.0,5,3,300
+Buenos Aires Interior,san-vicente,219000.0,4,3,195
+Buenos Aires Interior,san-vicente,220000.0,4,1,123
+Buenos Aires Interior,san-vicente,340000.0,5,3,161
+Buenos Aires Interior,san-vicente,480000.0,7,4,320
+Buenos Aires Interior,san-vicente,375000.0,6,3,320
+Buenos Aires Interior,san-vicente,78000.0,3,2,130
+Buenos Aires Interior,san-vicente,254000.0,3,2,180
+Buenos Aires Interior,san-vicente,254000.0,3,2,180
+Buenos Aires Interior,san-vicente,325000.0,4,3,265
+Buenos Aires Interior,san-vicente,244900.0,4,2,165
+Buenos Aires Interior,san-vicente,585000.0,6,4,330
+Buenos Aires Interior,san-vicente,306000.0,7,3,230
+Buenos Aires Interior,san-vicente,215000.0,4,2,174
+Buenos Aires Interior,san-vicente,749000.0,6,4,552
+Buenos Aires Interior,san-vicente,275000.0,6,2,200
+Buenos Aires Interior,san-vicente,315000.0,5,4,191
+Buenos Aires Interior,san-vicente,269000.0,5,3,190
+Buenos Aires Interior,san-vicente,220000.0,5,3,148
+Buenos Aires Interior,san-vicente,279000.0,4,2,157
+Buenos Aires Interior,san-vicente,335000.0,6,2,177
+Buenos Aires Interior,san-vicente,195000.0,5,2,170
+Buenos Aires Interior,san-vicente,295000.0,5,3,250
+Buenos Aires Interior,san-vicente,229000.0,4,3,180
+Buenos Aires Interior,san-vicente,245000.0,5,3,170
+Buenos Aires Interior,san-vicente,245000.0,5,4,220
+Buenos Aires Interior,san-vicente,195000.0,4,2,200
+Buenos Aires Interior,san-vicente,239000.0,6,3,160
