@@ -100,8 +100,8 @@ ml-inmuebles/
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/TU-USUARIO/NOMBRE-REPO.git
-cd NOMBRE-REPO
+git clone https://github.com/tachyon-lhc/Scraper_ML-Inmuebles
+cd  ml-inmuebles
 ```
 
 1. **Crear entorno virtual** (recomendado)
