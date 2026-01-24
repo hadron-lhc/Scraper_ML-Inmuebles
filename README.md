@@ -4,7 +4,7 @@
 
 Web scraper y análisis de propiedades en venta en MercadoLibre Argentina. El proyecto extrae información de ~1900 propiedades de múltiples zonas, procesa los datos y genera visualizaciones para análisis del mercado inmobiliario.
 
-![Ejemplo de visualización](./plots/precio_por_zona.png)
+![Ejemplo de pagina](./images/web_ml.png)
 
 ---
 
@@ -43,12 +43,16 @@ El scraper genera un archivo CSV con la siguiente estructura:
 El proyecto genera 4 gráficos de análisis:
 
 1. **Precio promedio por zona** (Gráfico de barras)
-2. **Distribución de precios** (Histograma)
-3. **Relación Precio vs Área** (Scatter plot)
-4. **Distribución de precios por zona** (Box plot)
+   ![Distribución de precios](./plots/precio_por_zona.png.png)
 
-![Distribución de precios](./plots/distribucion_precios.png)
-![Precio vs Área](./plots/precio_vs_area.png)
+2. **Distribución de precios** (Histograma)
+   ![Distribución de precios](./plots/distribucion_precios.png)
+
+3. **Relación Precio vs Área** (Scatter plot)
+   ![Precio vs Área](./plots/precio_vs_area.png)
+
+4. **Distribución de precios por zona** (Box plot)
+   ![Distribución de precios](./plots/boxplot_zonas.png.png)
 
 ---
 
