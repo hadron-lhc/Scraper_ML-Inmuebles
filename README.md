@@ -1,25 +1,25 @@
-# Análisis del Mercado Inmobiliario Argentino
+# Argentine Real Estate Market Analysis
 
-## Descripción
+## Description
 
-Web scraper y análisis de propiedades en venta en MercadoLibre Argentina. El proyecto extrae información de ~1900 propiedades de múltiples zonas, procesa los datos y genera visualizaciones para análisis del mercado inmobiliario.
+Web scraper and analysis of properties for sale on MercadoLibre Argentina. The project extracts information from ~1900 properties across multiple zones, processes the data, and generates visualizations for real estate market analysis.
 
-![Ejemplo de pagina](./images/web_ml.png)
-
----
-
-## Características
-
-- **Web Scraping**: Extracción automática de propiedades desde MercadoLibre
-- **Limpieza de datos**: Procesamiento y normalización de información
-- **Análisis estadístico**: Menú interactivo con múltiples análisis
-- **Visualizaciones**: 4 gráficos profesionales con Matplotlib
+![Website example](./images/web_ml.png)
 
 ---
 
-## Datos extraídos
+## Features
 
-El scraper genera un archivo CSV con la siguiente estructura:
+- **Web Scraping**: Automatic property extraction from MercadoLibre
+- **Data Cleaning**: Processing and normalization of information
+- **Statistical Analysis**: Interactive menu with multiple analyses
+- **Visualizations**: 4 professional charts with Matplotlib
+
+---
+
+## Extracted Data
+
+The scraper generates a CSV file with the following structure:
 
 | zone      | city    | price  | rooms | bathrooms | area |
 | --------- | ------- | ------ | ----- | --------- | ---- |
@@ -27,84 +27,84 @@ El scraper genera un archivo CSV con la siguiente estructura:
 | GBA Norte | pilar   | 180000 | 6     | 2         | 116  |
 | Córdoba   | cordoba | 120000 | 4     | 2         | 175  |
 
-**Columnas:**
+**Columns:**
 
-- `zone`: Zona geográfica (GBA Norte, CABA, Córdoba, etc.)
-- `city`: Ciudad específica
-- `price`: Precio en USD
-- `rooms`: Cantidad de habitaciones
-- `bathrooms`: Cantidad de baños
-- `area`: Superficie en m²
-
----
-
-## Visualizaciones generadas
-
-El proyecto genera 4 gráficos de análisis:
-
-1. **Precio promedio por zona** (Gráfico de barras)
-   ![Distribución de precios](./plots/precio_por_zona.png)
-
-2. **Distribución de precios** (Histograma)
-   ![Distribución de precios](./plots/distribucion_precios.png)
-
-3. **Relación Precio vs Área** (Scatter plot)
-   ![Precio vs Área](./plots/precio_vs_area.png)
-
-4. **Distribución de precios por zona** (Box plot)
-   ![Distribución de precios](./plots/boxplot_zonas.png)
+- `zone`: Geographic zone (GBA Norte, CABA, Córdoba, etc.)
+- `city`: Specific city
+- `price`: Price in USD
+- `rooms`: Number of rooms
+- `bathrooms`: Number of bathrooms
+- `area`: Area in m²
 
 ---
 
-## Estructura del proyecto
+## Generated Visualizations
+
+The project generates 4 analysis charts:
+
+1. **Average Price by Zone** (Bar chart)
+   ![Price distribution](./plots/precio_por_zona.png)
+
+2. **Price Distribution** (Histogram)
+   ![Price distribution](./plots/distribucion_precios.png)
+
+3. **Price vs Area Relationship** (Scatter plot)
+   ![Price vs Area](./plots/precio_vs_area.png)
+
+4. **Price Distribution by Zone** (Box plot)
+   ![Price distribution](./plots/boxplot_zonas.png)
+
+---
+
+## Project Structure
 
 ```
 ml-inmuebles/
 ├── scraper/
-│   ├── config.py              # URLs y configuración
-│   ├── scraper_ml.py          # Web scraper principal
-│   ├── processing.py          # Limpieza de datos
-│   ├── analysis.py            # Análisis estadístico
-│   └── visualizations.py      # Generación de gráficos
-├── plots/                     # Gráficos generados
+│   ├── config.py              # URLs and configuration
+│   ├── scraper_ml.py          # Main web scraper
+│   ├── processing.py          # Data cleaning
+│   ├── analysis.py            # Statistical analysis
+│   └── visualizations.py      # Chart generation
+├── plots/                     # Generated charts
 │   ├── precio_por_zona.png
 │   ├── distribucion_precios.png
 │   ├── precio_vs_area.png
 │   └── boxplot_zonas.png
-├── propiedades_limpias.csv    # Datos procesados
+├── propiedades_limpias.csv    # Processed data
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## Tecnologías utilizadas
+## Technologies Used
 
 - **Python 3.x**
-- **BeautifulSoup4** - Parsing HTML
-- **Requests** - Peticiones HTTP
-- **Pandas** - Manipulación y análisis de datos
-- **Matplotlib** - Visualizaciones
+- **BeautifulSoup4** - HTML Parsing
+- **Requests** - HTTP Requests
+- **Pandas** - Data manipulation and analysis
+- **Matplotlib** - Visualizations
 
 ---
 
-## Instalación y Ejecución
+## Installation and Execution
 
-### Requisitos previos
+### Prerequisites
 
-- Python 3.8 o superior
-- pip (gestor de paquetes de Python)
+- Python 3.8 or higher
+- pip (Python package manager)
 
-### Pasos para ejecutar
+### Steps to run
 
-1. **Clonar el repositorio**
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/tachyon-lhc/Scraper_ML-Inmuebles
 cd  ml-inmuebles
 ```
 
-1. **Crear entorno virtual** (recomendado)
+1. **Create virtual environment** (recommended)
 
 ```bash
 # Windows
@@ -116,31 +116,31 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-1. **Instalar dependencias**
+1. **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-1. **Ejecutar el scraper**
+1. **Run the scraper**
 
 ```bash
 python scraper/scraper_ml.py
 ```
 
-1. **Procesar y limpiar datos**
+1. **Process and clean data**
 
 ```bash
 python scraper/processing.py
 ```
 
-1. **Análisis interactivo**
+1. **Interactive analysis**
 
 ```bash
 python scraper/analysis.py
 ```
 
-1. **Generar visualizaciones**
+1. **Generate visualizations**
 
 ```bash
 python scraper/visualizations.py
@@ -148,32 +148,32 @@ python scraper/visualizations.py
 
 ---
 
-## Resultados
+## Results
 
-- **Propiedades analizadas**: ~1900
-- **Zonas cubiertas**: 6 (GBA Norte, GBA Sur, GBA Oeste, Buenos Aires Interior, Córdoba, Costa Atlántica)
-- **Rango de precios**: USD 22,000 - USD 990,000
-- **Archivos generados**:
+- **Properties analyzed**: ~1900
+- **Zones covered**: 6 (GBA Norte, GBA Sur, GBA Oeste, Buenos Aires Interior, Córdoba, Costa Atlántica)
+- **Price range**: USD 22,000 - USD 990,000
+- **Generated files**:
   - `propiedades_limpias.csv`
-  - 4 visualizaciones en carpeta `plots/`
+  - 4 visualizations in `plots/` folder
 
 ---
 
-## Configuración
+## Configuration
 
-Para modificar las URLs o zonas a scrapear, editá `scraper/config.py`:
+To modify the URLs or zones to scrape, edit `scraper/config.py`:
 
 ```python
 URLS = {
     "GBA Norte": ["https://..."],
-    # Agregar más zonas según necesidad
+    # Add more zones as needed
 }
 ```
 
 ---
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abrí un issue primero para discutir los cambios propuestos.
+Contributions are welcome. Please open an issue first to discuss proposed changes.
 
 ---
