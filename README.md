@@ -8,6 +8,12 @@ Web scraper and analysis of properties for sale on MercadoLibre Argentina. The p
 
 ---
 
+## Data exploration
+
+<https://argentina-housing-dashboard.streamlit.app/>
+
+---
+
 ## Features
 
 - **Web Scraping**: Automatic property extraction from MercadoLibre
